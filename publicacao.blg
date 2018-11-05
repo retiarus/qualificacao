@@ -1,0 +1,73 @@
+This is BibTeX, Version 0.99d (TeX Live 2017/Debian)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: publicacao.aux
+A level-1 auxiliary file: ./docs/doc_aux/abreviaturasesiglas.aux
+A level-1 auxiliary file: ./docs/doc_body/introduction.aux
+A level-1 auxiliary file: ./docs/doc_body/chapter_2.aux
+A level-1 auxiliary file: ./docs/doc_body/chapter_3.aux
+The style file: abnt-alf.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: abnt-options.bib
+Database file #2: ./bib/referencia.bib
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=20001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Warning--op��o abnt-show-options passou para warn
+Warning--op��o abnt-verbatim-entry passou para no
+Warning--op��o abnt-url-package passou para url
++---------------------------------------------------------+
+| Estilo bibliogr�fico abnt-alf.bst vers�o 1.45.2.1           |
+| Em caso de d�vidas ou problemas com este estilo procure |
+| http://abntex.codigolivre.org.br                        |
++---------------------------------------------------------+
+You've used 22 entries,
+            6478 wiz_defined-function locations,
+            1324 strings with 13296 characters,
+and the built_in function-call counts, 15393 in all, are:
+= -- 1253
+> -- 515
+< -- 36
++ -- 253
+- -- 151
+* -- 1098
+:= -- 2001
+add.period$ -- 61
+call.type$ -- 23
+change.case$ -- 194
+chr.to.int$ -- 54
+cite$ -- 14
+duplicate$ -- 744
+empty$ -- 1172
+format.name$ -- 769
+if$ -- 3759
+int.to.chr$ -- 7
+int.to.str$ -- 3
+missing$ -- 354
+newline$ -- 103
+num.names$ -- 70
+pop$ -- 368
+preamble$ -- 1
+purify$ -- 81
+quote$ -- 0
+skip$ -- 1009
+stack$ -- 1
+substring$ -- 551
+swap$ -- 362
+text.length$ -- 24
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 8
+warning$ -- 3
+while$ -- 100
+width$ -- 0
+write$ -- 251
+(There were 3 warnings)

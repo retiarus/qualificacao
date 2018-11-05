@@ -1,0 +1,133 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{1.45.2.1 }
+
+\bibitem[Han et al. 2011]{HAN:2011}
+\abntrefinfo{Han et al.}{HAN et al.}{2011}
+{HAN, J.; KAMBER, M.; PEI, J. \textbf{Data Mining: Concepts and Techniques}.
+  3rd. ed. San Francisco, CA, USA: Morgan Kaufmann Publishers Inc., 2011.
+ISBN 0123814790, 9780123814791.}
+
+
+\bibitem[Kirchhoff 1991]{KIRCHHOFF:1991}
+\abntrefinfo{Kirchhoff}{KIRCHHOFF}{1991}
+{KIRCHHOFF, V. W. J.~H. \textbf{{Introdução à geofísica espacial}}. [S.l.:
+  s.n.], 1991. 152~p.
+ISBN 9788572330015.}
+
+
+\bibitem[Laundal e Richmond 2017]{LAUNDAL:2017}
+\abntrefinfo{Laundal e Richmond}{LAUNDAL; RICHMOND}{2017}
+{LAUNDAL, K.~M.; RICHMOND, A.~D. Magnetic coordinate systems.
+\textbf{Space Science Reviews}, v.~206, n.~1, p. 27--59, Mar 2017.
+ISSN 1572-9672.
+Dispon{\'\i}vel em: <\url{https://doi.org/10.1007/s11214-016-0275-y}>.}
+
+
+\bibitem[Lima et al. 2014]{GLAUSTON:2014}
+\abntrefinfo{Lima et al.}{LIMA et al.}{2014}
+{LIMA, G. R.~T. d.; STEPHANY, S.; PAULA, E.~R. d.; BATISTA, I.~S.; ABDU, M.~A.;
+  REZENDE, L. F.~C.; AQUINO, M. G.~S.; DUTRA, A. P.~S. Correlation analysis
+  between the occurrence of ionospheric scintillation at the magnetic equator
+  and at the southern peak of the equatorial ionization anomaly.
+\textbf{Space Weather}, v.~12, n.~6, p. 406--416, June 2014.
+ISSN 1542-7390.}
+
+
+\bibitem[Lima et al. 2015]{GLAUSTON:2015}
+\abntrefinfo{Lima et al.}{LIMA et al.}{2015}
+{LIMA, G. R.~T. d.; STEPHANY, S.; PAULA, E.~R. d.; BATISTA, I.~S.; ABDU, M.~A.
+  Prediction of the level of ionospheric scintillation at equatorial latitudes
+  in brazil using a neural network.
+\textbf{Space Weather}, v.~13, n.~8, p. 446--457, Aug 2015.
+ISSN 1542-7390.}
+
+
+\bibitem[Negreti 2012]{NEGRETI:2012}
+\abntrefinfo{Negreti}{NEGRETI}{2012}
+{NEGRETI, P. M.~S.
+\textbf{Estudo do conteúdo eletrônico total na região brasileira em
+  períodos magneticamente perturbados}.
+323~p. Sid.inpe.br/mtc-m19/2012/05.10.21.43-TDI.
+Tese (Doutorado em Geofísica Espacial/Ciências do Ambiente Solar-Terrestre)
+  --- Instituto Nacional de Pesquisas Espaciais (INPE), São José dos Campos,
+  2012. Dispon{\'\i}vel em:
+  <\url{http://urlib.net/sid.inpe.br/mtc-m19/2012/05.10.21.43}>.}
+
+
+\bibitem[Raghavarao et al. 1998]{RAGHAVARAO:1998}
+\abntrefinfo{Raghavarao et al.}{RAGHAVARAO et al.}{1998}
+{RAGHAVARAO, R.; NAGESWARARAO, M.; SASTRI, J.~H.; VYAS, G.~D.; SRIRAMARAO, M.
+  Role of equatorial ionization anomaly in the initiation of equatorial spread
+  f.
+\textbf{Journal of Geophysical Research: Space Physics}, v.~93, n.~A6, p.
+  5959--5964, 1998.
+Dispon{\'\i}vel em:
+  <\url{https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/JA093iA06p05959}>.}
+
+
+\bibitem[Raghunath Swapna ; Venkata~Ratnam 2016]{RAGHUNATH:2016}
+\abntrefinfo{Raghunath Swapna ; Venkata~Ratnam}{RAGHUNATH SWAPNA ;
+  VENKATA~RATNAM}{2016}
+{RAGHUNATH SWAPNA ; VENKATA~RATNAM, D. Detection of ionospheric spatial and
+  temporal gradients for ground based augmentation system applications.
+\textbf{Indian Journal of Radio & Space Physics (IJRSP)}, v.~45, n.~1, p.
+  11--19, 2016.}
+
+
+\bibitem[Ray et al. 2006]{RAY:2006}
+\abntrefinfo{Ray et al.}{RAY et al.}{2006}
+{RAY, S.; PAUL, A.; DASGUPTA, A. {Equatorial scintillations in relation to the
+  development of ionization anomaly}.
+\textbf{{Annales Geophysicae}}, {European Geosciences Union}, v.~24, n.~5, p.
+  1429--1442, jul. 2006.
+Dispon{\'\i}vel em: <\url{https://hal.archives-ouvertes.fr/hal-00318073}>.}
+
+
+\bibitem[Rezende 2009]{REZENDE:2009}
+\abntrefinfo{Rezende}{REZENDE}{2009}
+{REZENDE, L.~F.
+\textbf{Mineração de dados aplicada à análise e predição de cintilação
+  ionosférica}.
+176~p. (INPE-16080-TDI/1537).
+Dissertação (Mestrado em Compuatação Aplicada) --- Instituto Nacional de
+  Pesquisas Espaciais (INPE), São José dos Campos, 2009. Dispon{\'\i}vel em:
+  <\url{http://urlib.net/sid.inpe.br/mtc-m18@80/2009/06.22.15.52}>.}
+
+
+\bibitem[{Rishbeth} e {Garriott} 1969]{RISNBETH:1969}
+\abntrefinfo{{Rishbeth} e {Garriott}}{{Rishbeth}; {Garriott}}{1969}
+{{Rishbeth}, H.; {Garriott}, O.~K. \textbf{{Introduction to ionospheric
+  physics}}. [S.l.: s.n.], 1969.}
+
+
+\bibitem[Stafford 2000]{STAFFORD:2000}
+\abntrefinfo{Stafford}{STAFFORD}{2000}
+{STAFFORD, J.~V. Implementing precision agriculture in the 21st century.
+\textbf{Journal of Agricultural Engineering Research}, v.~76, n.~3, p. 267 --
+  275, 2000.
+ISSN 0021-8634.
+Dispon{\'\i}vel em:
+  <\url{http://www.sciencedirect.com/science/article/pii/S0021863400905778}>.}
+
+
+\bibitem[Takahashi et al. 2016]{TAKAHASHI:2006}
+\abntrefinfo{Takahashi et al.}{TAKAHASHI et al.}{2016}
+{TAKAHASHI, H.; WRASSE, C.~M.; DENARDINI, C.~M.; PáDUA, M.~B.; PAULA, E.~R.;
+  COSTA, S. M.~A.; OTSUKA, Y.; SHIOKAWA, K.; MONICO, J. F.~G.; IVO, A.;
+  SANT'ANNA, N. Ionospheric tec weather map over south america.
+\textbf{Space Weather}, v.~14, n.~11, p. 937--949, 2016.
+Dispon{\'\i}vel em:
+  <\url{https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2016SW001474}>.}
+
+
+\bibitem[Zhu e Goldberg 2009]{ZHU:2009}
+\abntrefinfo{Zhu e Goldberg}{ZHU; GOLDBERG}{2009}
+{ZHU, X.; GOLDBERG, A.~B. \textbf{Introduction to Semi-Supervised Learning:
+  Morgan \& Claypool}. 2009.}
+
+
+\end{thebibliography}
