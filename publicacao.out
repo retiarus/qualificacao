@@ -2,23 +2,25 @@
 \BOOKMARK [0][]{VERSO.0}{VERSO}{}% 2
 \BOOKMARK [0][]{FOLHA DE ROSTO.0}{FOLHA DE ROSTO}{}% 3
 \BOOKMARK [0][]{.0}{TERMOS DE USO}{}% 4
-\BOOKMARK [0][]{listfigurename.0}{LISTA DE FIGURAS}{}% 5
-\BOOKMARK [0][]{listtablename.0}{LISTA DE TABELAS}{}% 6
-\BOOKMARK [0][]{nomeabreviaturasesiglas.0}{LISTA DE ABREVIATURAS E SIGLAS}{}% 7
-\BOOKMARK [0][]{contentsname.0}{SUM\301RIO}{}% 8
-\BOOKMARK [0][]{chapter.1}{1 INTRODU\307\303O}{}% 9
-\BOOKMARK [0][]{chapter.2}{2 IONOSFERA}{}% 10
-\BOOKMARK [1][]{section.2.1}{2.1 Anomalias na ionosfera}{chapter.2}% 11
-\BOOKMARK [1][]{section.2.2}{2.2 TEC, VTEC e S4}{chapter.2}% 12
-\BOOKMARK [1][]{section.2.3}{2.3 Bolhas de Plasma}{chapter.2}% 13
-\BOOKMARK [0][]{chapter.3}{3 Metodologia}{}% 14
-\BOOKMARK [1][]{section.3.1}{3.1 }{chapter.3}% 15
-\BOOKMARK [1][]{section.3.2}{3.2 Sele\347\343o inicial dos dados de S4 e esta\347\365es}{chapter.3}% 16
-\BOOKMARK [1][]{section.3.3}{3.3 Gerando a s\351rie espa\347o-temporal para os dados de VTEC}{chapter.3}% 17
-\BOOKMARK [1][]{section.3.4}{3.4 Gerando um mapa das esta\347\365es com os meridianos magn\351ticos}{chapter.3}% 18
-\BOOKMARK [1][]{section.3.5}{3.5 Suaviza\347\343o da s\351rire temporal de S4}{chapter.3}% 19
-\BOOKMARK [1][]{section.3.6}{3.6 Extra\347\343o da s\351rie temporal de VTEC, para algumas esta\347\365es}{chapter.3}% 20
-\BOOKMARK [1][]{section.3.7}{3.7 Sele\347\343o fina dos dados de S4}{chapter.3}% 21
-\BOOKMARK [1][]{section.3.8}{3.8 Visualizando S4 e VTEC}{chapter.3}% 22
-\BOOKMARK [1][]{section.3.9}{3.9 An\341lises: S4VTEC em S\343o Jos\351 dos Campos}{chapter.3}% 23
-\BOOKMARK [0][]{chapter.4}{REFER\312NCIAS BIBLIOGR\301FICAS}{}% 24
+\BOOKMARK [0][]{nomeresumo.0}{RESUMO}{}% 5
+\BOOKMARK [0][]{nomeabstract.0}{ABSTRACT}{}% 6
+\BOOKMARK [0][]{listfigurename.0}{LISTA DE FIGURAS}{}% 7
+\BOOKMARK [0][]{listtablename.0}{LISTA DE TABELAS}{}% 8
+\BOOKMARK [0][]{nomeabreviaturasesiglas.0}{LISTA DE ABREVIATURAS E SIGLAS}{}% 9
+\BOOKMARK [0][]{contentsname.0}{SUM\301RIO}{}% 10
+\BOOKMARK [0][]{chapter.1}{1 INTRODU\307\303O}{}% 11
+\BOOKMARK [0][]{chapter.2}{2 IONOSFERA}{}% 12
+\BOOKMARK [1][]{section.2.1}{2.1 Anomalias na ionosfera}{chapter.2}% 13
+\BOOKMARK [1][]{section.2.2}{2.2 TEC, VTEC e S4}{chapter.2}% 14
+\BOOKMARK [1][]{section.2.3}{2.3 Bolhas de Plasma}{chapter.2}% 15
+\BOOKMARK [0][]{chapter.3}{3 Metodologia}{}% 16
+\BOOKMARK [1][]{section.3.1}{3.1 Sele\347\343o inicial dos dados de S4 e esta\347\365es}{chapter.3}% 17
+\BOOKMARK [1][]{section.3.2}{3.2 Gerando a s\351rie espa\347o-temporal para os dados de VTEC}{chapter.3}% 18
+\BOOKMARK [1][]{section.3.3}{3.3 Gerando um mapa das esta\347\365es com os meridianos magn\351ticos}{chapter.3}% 19
+\BOOKMARK [1][]{section.3.4}{3.4 Suaviza\347\343o da s\351rie temporal de S4}{chapter.3}% 20
+\BOOKMARK [1][]{section.3.5}{3.5 Extra\347\343o da s\351rie temporal de VTEC, para algumas esta\347\365es}{chapter.3}% 21
+\BOOKMARK [1][]{section.3.6}{3.6 Sele\347\343o fina dos dados de S4}{chapter.3}% 22
+\BOOKMARK [1][]{section.3.7}{3.7 Visualizando S4 e VTEC}{chapter.3}% 23
+\BOOKMARK [1][]{section.3.8}{3.8 An\341lises: S4VTEC em S\343o Jos\351 dos Campos}{chapter.3}% 24
+\BOOKMARK [0][]{chapter.4}{4 RESULTADOS}{}% 25
+\BOOKMARK [0][]{chapter.5}{REFER\312NCIAS BIBLIOGR\301FICAS}{}% 26

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.14)  3 NOV 2018 19:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.14)  7 NOV 2018 21:56
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1096,13 +1096,22 @@ Excluding comment 'comment') (./configuracao.tex
 
 
 Writing index file publicacao.idx
-(./publicacao.aux (./docs/doc_aux/abreviaturasesiglas.aux)
-(./docs/doc_body/introduction.aux) (./docs/doc_body/chapter_2.aux)
-(./docs/doc_body/chapter_3.aux
+(./publicacao.aux (./docs/doc_aux/resumo.aux) (./docs/doc_aux/abstract.aux)
+(./docs/doc_aux/abreviaturasesiglas.aux) (./docs/doc_body/introduction.aux)
+(./docs/doc_body/chapter_2.aux) (./docs/doc_body/chapter_3.aux
 
 LaTeX Warning: Label `tab:stations' multiply defined.
 
-))
+
+LaTeX Warning: Label `fig:s4stations0' multiply defined.
+
+
+LaTeX Warning: Label `fig:s4stations1' multiply defined.
+
+
+LaTeX Warning: Label `fig:s4stations2' multiply defined.
+
+) (./docs/doc_body/chapter_4.aux))
 \openout1 = `publicacao.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 58.
@@ -1208,7 +1217,7 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 63.
 Package hyperref Info: Anchor `CAPA.0' on input line 63.
-<logoinpe.pdf, id=100, 1129.21875pt x 189.70876pt>
+<logoinpe.pdf, id=108, 1129.21875pt x 189.70876pt>
 File: logoinpe.pdf Graphic file (type pdf)
 <use logoinpe.pdf>
 Package pdftex.def Info: logoinpe.pdf  used on input line 63.
@@ -1318,7 +1327,7 @@ Package hyperref Info: Anchor `.0' on input line 63.
 
 Package xcolor Warning: Incompatible color definition on input line 63.
 
-<CCBYNC.png, id=128, 88.33pt x 31.11626pt>
+<CCBYNC.png, id=136, 88.33pt x 31.11626pt>
 File: CCBYNC.png Graphic file (type png)
 <use CCBYNC.png>
 Package pdftex.def Info: CCBYNC.png  used on input line 63.
@@ -1329,63 +1338,133 @@ Package xcolor Warning: Incompatible color definition on input line 63.
 
 Package xcolor Warning: Incompatible color definition on input line 63.
 
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 69.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 69.
+Package hyperref Info: Anchor `page.ii' on input line 69.
+pdfTeX warning (ext4): destination with the same identifier (name{page.ii}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.69 \include{./docs/doc_aux/resumo}
+                                     %% obrigatório [2
+Package `hyperref' Info: End of reference <VerboseLinkInfo>.
+Package `hyperref' Info: End of reference <VerboseLinkInfo>.
+Package `hyperref' Info: End of reference <VerboseLinkInfo>.
+ <./CCBYNC.png>]
+\openout2 = `./docs/doc_aux/resumo.aux'.
+
+
+(./docs/doc_aux/resumo.tex
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 4.
+Package hyperref Info: Anchor `nomeresumo.0' on input line 4.
+Package hyperref Info: Anchor `estilo:resumo' on input line 11.
+)
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 69.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 69.
+Package hyperref Info: Anchor `page.iii' on input line 69.
+ [3
+
+
+
+]
+\openout2 = `./docs/doc_aux/abstract.aux'.
+
+ (./docs/doc_aux/abstract.tex
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 5.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 5.
+Package hyperref Info: Anchor `page.iv' on input line 5.
+ [4
+
+
+
+
+]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 5.
+Package hyperref Info: Anchor `nomeabstract.0' on input line 5.
+Package hyperref Info: Anchor `estilo:abstract' on input line 15.
+)
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 70.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 70.
+Package hyperref Info: Anchor `page.v' on input line 70.
+ [5]
 Package hyperref Info: Anchor `section.0.1' on input line 72.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 72.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 72.
-Package hyperref Info: Anchor `page.ii' on input line 72.
-pdfTeX warning (ext4): destination with the same identifier (name{page.ii}) has
- been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.72 \includeListaFiguras
-                          %% obrigatório caso haja mais de 3 figuras, gerad...
-[2
-Package `hyperref' Info: End of reference <VerboseLinkInfo>.
-Package `hyperref' Info: End of reference <VerboseLinkInfo>.
-Package `hyperref' Info: End of reference <VerboseLinkInfo>.
- <./CCBYNC.png>]
+Package hyperref Info: Anchor `page.vi' on input line 72.
+ [6
+
+
+
+]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 72.
 Package hyperref Info: Anchor `listfigurename.0' on input line 72.
- (./publicacao.lof
-Package hyperref Info: Reference (link) `figure.3.2' on input line 5.
 
+(./publicacao.lof
+Package hyperref Info: Reference (link) `figure.1.1' on input line 7.
 
-Package xcolor Warning: Incompatible color definition on input line 5.
-
-Package hyperref Info: Reference (link) `figure.3.3' on input line 6.
-
-Package xcolor Warning: Incompatible color definition on input line 6.
-
-Package hyperref Info: Reference (link) `figure.3.4' on input line 7.
 
 Package xcolor Warning: Incompatible color definition on input line 7.
 
-Package hyperref Info: Reference (link) `figure.3.5' on input line 8.
-
-Package xcolor Warning: Incompatible color definition on input line 8.
-
-Package hyperref Info: Reference (link) `figure.3.6' on input line 9.
-
-Package xcolor Warning: Incompatible color definition on input line 9.
-
-Package hyperref Info: Reference (link) `figure.3.7' on input line 10.
+Package hyperref Info: Reference (link) `figure.3.1' on input line 10.
 
 Package xcolor Warning: Incompatible color definition on input line 10.
 
-Package hyperref Info: Reference (link) `figure.3.8' on input line 11.
+Package hyperref Info: Reference (link) `figure.3.2' on input line 11.
 
 Package xcolor Warning: Incompatible color definition on input line 11.
 
-Package hyperref Info: Reference (link) `figure.3.1' on input line 12.
+Package hyperref Info: Reference (link) `figure.3.3' on input line 12.
 
 Package xcolor Warning: Incompatible color definition on input line 12.
 
-Package hyperref Info: Reference (link) `figure.3.9' on input line 13.
+Package hyperref Info: Reference (link) `figure.3.4' on input line 13.
 
 Package xcolor Warning: Incompatible color definition on input line 13.
+
+Package hyperref Info: Reference (link) `figure.3.5' on input line 14.
+
+Package xcolor Warning: Incompatible color definition on input line 14.
+
+Package hyperref Info: Reference (link) `figure.3.6' on input line 15.
+
+Package xcolor Warning: Incompatible color definition on input line 15.
+
+Package hyperref Info: Reference (link) `figure.3.7' on input line 16.
+
+Package xcolor Warning: Incompatible color definition on input line 16.
+
+Package hyperref Info: Reference (link) `figure.3.8' on input line 17.
+
+Package xcolor Warning: Incompatible color definition on input line 17.
+
+Package hyperref Info: Reference (link) `figure.3.10' on input line 18.
+
+Package xcolor Warning: Incompatible color definition on input line 18.
+
+Package hyperref Info: Reference (link) `figure.3.11' on input line 19.
+
+Package xcolor Warning: Incompatible color definition on input line 19.
+
+Package hyperref Info: Reference (link) `figure.3.12' on input line 20.
+
+Package xcolor Warning: Incompatible color definition on input line 20.
+
+Package hyperref Info: Reference (link) `figure.3.9' on input line 21.
+
+Package xcolor Warning: Incompatible color definition on input line 21.
 
 )
 \tf@lof=\write6
@@ -1395,26 +1474,28 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 72.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 72.
-Package hyperref Info: Anchor `page.iii' on input line 72.
- [3
-
-
-Package `hyperref' Info: End of reference (link) `figure.3.2', line 5.
-Package `hyperref' Info: End of reference (link) `figure.3.3', line 6.
-Package `hyperref' Info: End of reference (link) `figure.3.4', line 7.
-Package `hyperref' Info: End of reference (link) `figure.3.5', line 8.
-Package `hyperref' Info: End of reference (link) `figure.3.6', line 9.
-Package `hyperref' Info: End of reference (link) `figure.3.7', line 10.
-Package `hyperref' Info: End of reference (link) `figure.3.8', line 11.
-Package `hyperref' Info: End of reference (link) `figure.3.1', line 12.
-Package `hyperref' Info: End of reference (link) `figure.3.9', line 13.
+Package hyperref Info: Anchor `page.vii' on input line 72.
+ [7
+Package `hyperref' Info: End of reference (link) `figure.1.1', line 7.
+Package `hyperref' Info: End of reference (link) `figure.3.1', line 10.
+Package `hyperref' Info: End of reference (link) `figure.3.2', line 11.
+Package `hyperref' Info: End of reference (link) `figure.3.3', line 12.
+Package `hyperref' Info: End of reference (link) `figure.3.4', line 13.
+Package `hyperref' Info: End of reference (link) `figure.3.5', line 14.
+Package `hyperref' Info: End of reference (link) `figure.3.6', line 15.
+Package `hyperref' Info: End of reference (link) `figure.3.7', line 16.
+Package `hyperref' Info: End of reference (link) `figure.3.8', line 17.
+Package `hyperref' Info: End of reference (link) `figure.3.10', line 18.
+Package `hyperref' Info: End of reference (link) `figure.3.11', line 19.
+Package `hyperref' Info: End of reference (link) `figure.3.12', line 20.
+Package `hyperref' Info: End of reference (link) `figure.3.9', line 21.
 ]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 72.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 72.
-Package hyperref Info: Anchor `page.iv' on input line 72.
- [4
+Package hyperref Info: Anchor `page.viii' on input line 72.
+ [8
 
 
 ]
@@ -1422,7 +1503,13 @@ Package hyperref Info: Anchor `section.0.2' on input line 73.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 73.
 Package hyperref Info: Anchor `listtablename.0' on input line 73.
- (./publicacao.lot)
+ (./publicacao.lot
+Package hyperref Info: Reference (link) `table.3.1' on input line 9.
+
+
+Package xcolor Warning: Incompatible color definition on input line 9.
+
+)
 \tf@lot=\write7
 \openout7 = `publicacao.lot'.
 
@@ -1430,17 +1517,18 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 73.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 73.
-Package hyperref Info: Anchor `page.v' on input line 73.
- [5
+Package hyperref Info: Anchor `page.ix' on input line 73.
+ [9
 
 
+Package `hyperref' Info: End of reference (link) `table.3.1', line 9.
 ]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 73.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 73.
-Package hyperref Info: Anchor `page.vi' on input line 73.
- [6
+Package hyperref Info: Anchor `page.x' on input line 73.
+ [10
 
 
 ]
@@ -1460,8 +1548,8 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 25.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 25.
-Package hyperref Info: Anchor `page.vii' on input line 25.
-[7
+Package hyperref Info: Anchor `page.xi' on input line 25.
+[11
 
 
 
@@ -1470,8 +1558,8 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 25.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 25.
-Package hyperref Info: Anchor `page.viii' on input line 25.
- [8
+Package hyperref Info: Anchor `page.xii' on input line 25.
+ [12
 
 
 ])
@@ -1479,70 +1567,70 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 79.
 Package hyperref Info: Anchor `contentsname.0' on input line 79.
  (./publicacao.toc
-Package hyperref Info: Reference (link) `chapter.1' on input line 2.
+Package hyperref Info: Reference (link) `chapter.1' on input line 6.
 
-
-Package xcolor Warning: Incompatible color definition on input line 2.
-
-Package hyperref Info: Reference (link) `chapter.2' on input line 3.
-
-Package xcolor Warning: Incompatible color definition on input line 3.
-
-Package hyperref Info: Reference (link) `section.2.1' on input line 4.
-
-Package xcolor Warning: Incompatible color definition on input line 4.
-
-Package hyperref Info: Reference (link) `section.2.2' on input line 5.
-
-Package xcolor Warning: Incompatible color definition on input line 5.
-
-Package hyperref Info: Reference (link) `section.2.3' on input line 6.
 
 Package xcolor Warning: Incompatible color definition on input line 6.
 
-Package hyperref Info: Reference (link) `chapter.3' on input line 7.
+Package hyperref Info: Reference (link) `chapter.2' on input line 7.
 
 Package xcolor Warning: Incompatible color definition on input line 7.
 
-Package hyperref Info: Reference (link) `section.3.1' on input line 8.
+Package hyperref Info: Reference (link) `section.2.1' on input line 8.
 
 Package xcolor Warning: Incompatible color definition on input line 8.
 
-Package hyperref Info: Reference (link) `section.3.2' on input line 9.
+Package hyperref Info: Reference (link) `section.2.2' on input line 9.
 
 Package xcolor Warning: Incompatible color definition on input line 9.
 
-Package hyperref Info: Reference (link) `section.3.3' on input line 10.
+Package hyperref Info: Reference (link) `section.2.3' on input line 10.
 
 Package xcolor Warning: Incompatible color definition on input line 10.
 
-Package hyperref Info: Reference (link) `section.3.4' on input line 11.
+Package hyperref Info: Reference (link) `chapter.3' on input line 11.
 
 Package xcolor Warning: Incompatible color definition on input line 11.
 
-Package hyperref Info: Reference (link) `section.3.5' on input line 12.
+Package hyperref Info: Reference (link) `section.3.1' on input line 12.
 
 Package xcolor Warning: Incompatible color definition on input line 12.
 
-Package hyperref Info: Reference (link) `section.3.6' on input line 13.
+Package hyperref Info: Reference (link) `section.3.2' on input line 13.
 
 Package xcolor Warning: Incompatible color definition on input line 13.
 
-Package hyperref Info: Reference (link) `section.3.7' on input line 14.
+Package hyperref Info: Reference (link) `section.3.3' on input line 14.
 
 Package xcolor Warning: Incompatible color definition on input line 14.
 
-Package hyperref Info: Reference (link) `section.3.8' on input line 15.
+Package hyperref Info: Reference (link) `section.3.4' on input line 15.
 
 Package xcolor Warning: Incompatible color definition on input line 15.
 
-Package hyperref Info: Reference (link) `section.3.9' on input line 16.
+Package hyperref Info: Reference (link) `section.3.5' on input line 16.
 
 Package xcolor Warning: Incompatible color definition on input line 16.
 
-Package hyperref Info: Reference (link) `chapter.4' on input line 17.
+Package hyperref Info: Reference (link) `section.3.6' on input line 17.
 
 Package xcolor Warning: Incompatible color definition on input line 17.
+
+Package hyperref Info: Reference (link) `section.3.7' on input line 18.
+
+Package xcolor Warning: Incompatible color definition on input line 18.
+
+Package hyperref Info: Reference (link) `section.3.8' on input line 19.
+
+Package xcolor Warning: Incompatible color definition on input line 19.
+
+Package hyperref Info: Reference (link) `chapter.4' on input line 20.
+
+Package xcolor Warning: Incompatible color definition on input line 20.
+
+Package hyperref Info: Reference (link) `chapter.5' on input line 21.
+
+Package xcolor Warning: Incompatible color definition on input line 21.
 
 )
 \tf@toc=\write8
@@ -1552,34 +1640,34 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 79.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 79.
-Package hyperref Info: Anchor `page.ix' on input line 79.
- [9
+Package hyperref Info: Anchor `page.xiii' on input line 79.
+ [13
 
 
 
-Package `hyperref' Info: End of reference (link) `chapter.1', line 2.
-Package `hyperref' Info: End of reference (link) `chapter.2', line 3.
-Package `hyperref' Info: End of reference (link) `section.2.1', line 4.
-Package `hyperref' Info: End of reference (link) `section.2.2', line 5.
-Package `hyperref' Info: End of reference (link) `section.2.3', line 6.
-Package `hyperref' Info: End of reference (link) `chapter.3', line 7.
-Package `hyperref' Info: End of reference (link) `section.3.1', line 8.
-Package `hyperref' Info: End of reference (link) `section.3.2', line 9.
-Package `hyperref' Info: End of reference (link) `section.3.3', line 10.
-Package `hyperref' Info: End of reference (link) `section.3.4', line 11.
-Package `hyperref' Info: End of reference (link) `section.3.5', line 12.
-Package `hyperref' Info: End of reference (link) `section.3.6', line 13.
-Package `hyperref' Info: End of reference (link) `section.3.7', line 14.
-Package `hyperref' Info: End of reference (link) `section.3.8', line 15.
-Package `hyperref' Info: End of reference (link) `section.3.9', line 16.
-Package `hyperref' Info: End of reference (link) `chapter.4', line 17.
+Package `hyperref' Info: End of reference (link) `chapter.1', line 6.
+Package `hyperref' Info: End of reference (link) `chapter.2', line 7.
+Package `hyperref' Info: End of reference (link) `section.2.1', line 8.
+Package `hyperref' Info: End of reference (link) `section.2.2', line 9.
+Package `hyperref' Info: End of reference (link) `section.2.3', line 10.
+Package `hyperref' Info: End of reference (link) `chapter.3', line 11.
+Package `hyperref' Info: End of reference (link) `section.3.1', line 12.
+Package `hyperref' Info: End of reference (link) `section.3.2', line 13.
+Package `hyperref' Info: End of reference (link) `section.3.3', line 14.
+Package `hyperref' Info: End of reference (link) `section.3.4', line 15.
+Package `hyperref' Info: End of reference (link) `section.3.5', line 16.
+Package `hyperref' Info: End of reference (link) `section.3.6', line 17.
+Package `hyperref' Info: End of reference (link) `section.3.7', line 18.
+Package `hyperref' Info: End of reference (link) `section.3.8', line 19.
+Package `hyperref' Info: End of reference (link) `chapter.4', line 20.
+Package `hyperref' Info: End of reference (link) `chapter.5', line 21.
 ]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 79.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 79.
-Package hyperref Info: Anchor `page.x' on input line 79.
- [10
+Package hyperref Info: Anchor `page.xiv' on input line 79.
+ [14
 
 
 ]
@@ -1666,162 +1754,182 @@ Package `hyperref' Info: End of reference (cite) `cite.LAUNDAL:2017', line 11.
 Package `hyperref' Info: End of reference (cite) `cite.LAUNDAL:2017', line 11.
 Package `hyperref' Info: End of reference (cite) `cite.LAUNDAL:2017', line 11.
 Package `hyperref' Info: End of reference (cite) `cite.LAUNDAL:2017', line 11.
-Package `hyperref' Info: End of reference (cite) `cite.STAFFORD:2000', line 15.
-
-Package `hyperref' Info: End of reference (cite) `cite.STAFFORD:2000', line 15.
-
 ]
-Package hyperref Info: Reference (cite) `cite.HAN:2011' on input line 21.
+Package hyperref Info: Reference (cite) `cite.HAN:2011' on input line 23.
 
 
-Package xcolor Warning: Incompatible color definition on input line 21.
+Package xcolor Warning: Incompatible color definition on input line 23.
 
-Package hyperref Info: Reference (cite) `cite.HAN:2011' on input line 21.
+Package hyperref Info: Reference (cite) `cite.HAN:2011' on input line 23.
 
-Package xcolor Warning: Incompatible color definition on input line 21.
+Package xcolor Warning: Incompatible color definition on input line 23.
 
-Package backref Info: Back cite `HAN:2011' on input line 21.
-Package hyperref Info: Anchor `Item.1' on input line 26.
+Package backref Info: Back cite `HAN:2011' on input line 23.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 27.
+(babel)             in language  on input line 25.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 27.
-Package hyperref Info: Anchor `page.3' on input line 27.
+(babel)             in language  on input line 25.
+Package hyperref Info: Anchor `page.3' on input line 25.
  [3
-Package `hyperref' Info: End of reference (cite) `cite.HAN:2011', line 21.
-Package `hyperref' Info: End of reference (cite) `cite.HAN:2011', line 21.
+Package `hyperref' Info: End of reference (cite) `cite.STAFFORD:2000', line 15.
+
+Package `hyperref' Info: End of reference (cite) `cite.STAFFORD:2000', line 15.
+
+Package `hyperref' Info: End of reference (cite) `cite.HAN:2011', line 23.
 ]
-Package hyperref Info: Anchor `Item.2' on input line 27.
-Package hyperref Info: Anchor `Item.3' on input line 28.
-Package hyperref Info: Anchor `Item.4' on input line 29.
-Package hyperref Info: Anchor `Item.5' on input line 30.
-Package hyperref Info: Anchor `Item.6' on input line 31.
-Package hyperref Info: Anchor `Item.7' on input line 32.
-Package hyperref Info: Reference (cite) `cite.ZHU:2009' on input line 37.
+Package hyperref Info: Anchor `Item.1' on input line 30.
+Package hyperref Info: Anchor `Item.2' on input line 31.
+Package hyperref Info: Anchor `Item.3' on input line 32.
+Package hyperref Info: Anchor `Item.4' on input line 33.
+Package hyperref Info: Anchor `Item.5' on input line 34.
+Package hyperref Info: Anchor `Item.6' on input line 35.
+Package hyperref Info: Anchor `Item.7' on input line 36.
+Package hyperref Info: Reference (link) `Item.7' on input line 39.
 
 
-Package xcolor Warning: Incompatible color definition on input line 37.
+Package xcolor Warning: Incompatible color definition on input line 39.
 
-Package hyperref Info: Reference (cite) `cite.ZHU:2009' on input line 37.
-
-Package xcolor Warning: Incompatible color definition on input line 37.
-
-Package backref Info: Back cite `ZHU:2009' on input line 37.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 39.
+(babel)             in language  on input line 40.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 39.
-Package hyperref Info: Anchor `page.4' on input line 39.
-[4]
-Package hyperref Info: Reference (cite) `cite.REZENDE:2009' on input line 41.
+(babel)             in language  on input line 40.
+Package hyperref Info: Anchor `page.4' on input line 40.
+[4
+Package `hyperref' Info: End of reference (cite) `cite.HAN:2011', line 23.
+]
+<./Figuras/kdd.png, id=294, 336.0555pt x 260.172pt>
+File: ./Figuras/kdd.png Graphic file (type png)
+<use ./Figuras/kdd.png>
+Package pdftex.def Info: ./Figuras/kdd.png  used on input line 43.
+(pdftex.def)             Requested size: 341.43437pt x 264.35164pt.
+Package hyperref Info: bookmark on input line 45:
+(hyperref)             thecounter {1.1}
+(hyperref)             text {\protect \numberline {\csname the\@captype \endcsn
+ame }{\ignorespaces Passos de um processo de KDD. Fonte: Rezende, F. L. C. (200
+9)}}
+(hyperref)             reference {figure.1.1}
+(hyperref)             toclevel {0}
+(hyperref)             type {lof}.
+Package hyperref Info: Anchor `figure.1.1' on input line 45.
+Package hyperref Info: Reference (cite) `cite.ZHU:2009' on input line 48.
 
 
-Package xcolor Warning: Incompatible color definition on input line 41.
+Package xcolor Warning: Incompatible color definition on input line 48.
 
-Package hyperref Info: Reference (cite) `cite.REZENDE:2009' on input line 41.
+Package hyperref Info: Reference (cite) `cite.ZHU:2009' on input line 48.
 
-Package xcolor Warning: Incompatible color definition on input line 41.
+Package xcolor Warning: Incompatible color definition on input line 48.
+
+Package backref Info: Back cite `ZHU:2009' on input line 48.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 51.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 51.
+Package hyperref Info: Anchor `page.5' on input line 51.
+ [5
+Package `hyperref' Info: End of reference (link) `Item.7', line 39.
+Package `hyperref' Info: End of reference (cite) `cite.ZHU:2009', line 48.
+Package `hyperref' Info: End of reference (cite) `cite.ZHU:2009', line 48.
+ <./Figuras/kdd.png>]
+Package hyperref Info: Reference (cite) `cite.REZENDE:2009' on input line 52.
+
+
+Package xcolor Warning: Incompatible color definition on input line 52.
+
+Package hyperref Info: Reference (cite) `cite.REZENDE:2009' on input line 52.
+
+Package xcolor Warning: Incompatible color definition on input line 52.
 
 Package backref Info: Back cite `REZENDE:2009, GLAUSTON:2014, GLAUSTON:2015' on
- input line 41.
-Package hyperref Info: Reference (cite) `cite.GLAUSTON:2014' on input line 41.
+ input line 52.
+Package hyperref Info: Reference (cite) `cite.GLAUSTON:2014' on input line 52.
 
-Package xcolor Warning: Incompatible color definition on input line 41.
+Package xcolor Warning: Incompatible color definition on input line 52.
 
-Package hyperref Info: Reference (cite) `cite.GLAUSTON:2014' on input line 41.
+Package hyperref Info: Reference (cite) `cite.GLAUSTON:2014' on input line 52.
 
-Package xcolor Warning: Incompatible color definition on input line 41.
-
-Package backref Info: Back cite `REZENDE:2009, GLAUSTON:2014, GLAUSTON:2015' on
- input line 41.
-Package hyperref Info: Reference (cite) `cite.GLAUSTON:2015' on input line 41.
-
-Package xcolor Warning: Incompatible color definition on input line 41.
-
-Package hyperref Info: Reference (cite) `cite.GLAUSTON:2015' on input line 41.
-
-Package xcolor Warning: Incompatible color definition on input line 41.
+Package xcolor Warning: Incompatible color definition on input line 52.
 
 Package backref Info: Back cite `REZENDE:2009, GLAUSTON:2014, GLAUSTON:2015' on
- input line 41.
-Package hyperref Info: Reference (cite) `cite.RAGHAVARAO:1998' on input line 41
+ input line 52.
+Package hyperref Info: Reference (cite) `cite.GLAUSTON:2015' on input line 52.
+
+Package xcolor Warning: Incompatible color definition on input line 52.
+
+Package hyperref Info: Reference (cite) `cite.GLAUSTON:2015' on input line 52.
+
+Package xcolor Warning: Incompatible color definition on input line 52.
+
+Package backref Info: Back cite `REZENDE:2009, GLAUSTON:2014, GLAUSTON:2015' on
+ input line 52.
+Package hyperref Info: Reference (cite) `cite.RAGHAVARAO:1998' on input line 52
 .
 
-Package xcolor Warning: Incompatible color definition on input line 41.
+Package xcolor Warning: Incompatible color definition on input line 52.
 
-Package hyperref Info: Reference (cite) `cite.RAGHAVARAO:1998' on input line 41
+Package hyperref Info: Reference (cite) `cite.RAGHAVARAO:1998' on input line 52
 .
 
-Package xcolor Warning: Incompatible color definition on input line 41.
+Package xcolor Warning: Incompatible color definition on input line 52.
 
-Package backref Info: Back cite `RAGHAVARAO:1998, RAY:2006' on input line 41.
-Package hyperref Info: Reference (cite) `cite.RAY:2006' on input line 41.
+Package backref Info: Back cite `RAGHAVARAO:1998, RAY:2006' on input line 52.
+Package hyperref Info: Reference (cite) `cite.RAY:2006' on input line 52.
 
-Package xcolor Warning: Incompatible color definition on input line 41.
+Package xcolor Warning: Incompatible color definition on input line 52.
 
-Package hyperref Info: Reference (cite) `cite.RAY:2006' on input line 41.
+Package hyperref Info: Reference (cite) `cite.RAY:2006' on input line 52.
 
-Package xcolor Warning: Incompatible color definition on input line 41.
+Package xcolor Warning: Incompatible color definition on input line 52.
 
-Package backref Info: Back cite `RAGHAVARAO:1998, RAY:2006' on input line 41.
-Package hyperref Info: Reference (cite) `cite.RAGHUNATH:2016' on input line 41.
-
-
-Package xcolor Warning: Incompatible color definition on input line 41.
-
-Package hyperref Info: Reference (cite) `cite.RAGHUNATH:2016' on input line 41.
+Package backref Info: Back cite `RAGHAVARAO:1998, RAY:2006' on input line 52.
+Package hyperref Info: Reference (cite) `cite.RAGHUNATH:2016' on input line 52.
 
 
-Package xcolor Warning: Incompatible color definition on input line 41.
+Package xcolor Warning: Incompatible color definition on input line 52.
 
-Package backref Info: Back cite `RAGHUNATH:2016' on input line 41.
+Package hyperref Info: Reference (cite) `cite.RAGHUNATH:2016' on input line 52.
+
+
+Package xcolor Warning: Incompatible color definition on input line 52.
+
+Package backref Info: Back cite `RAGHUNATH:2016' on input line 52.
 )
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 83.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 83.
-Package hyperref Info: Anchor `page.5' on input line 83.
- [5
-Package `hyperref' Info: End of reference (cite) `cite.ZHU:2009', line 37.
-Package `hyperref' Info: End of reference (cite) `cite.ZHU:2009', line 37.
-Package `hyperref' Info: End of reference (cite) `cite.REZENDE:2009', line 41.
-Package `hyperref' Info: End of reference (cite) `cite.REZENDE:2009', line 41.
-Package `hyperref' Info: End of reference (cite) `cite.GLAUSTON:2014', line 41.
+Package hyperref Info: Anchor `page.6' on input line 83.
+ [6
+Package `hyperref' Info: End of reference (cite) `cite.REZENDE:2009', line 52.
+Package `hyperref' Info: End of reference (cite) `cite.REZENDE:2009', line 52.
+Package `hyperref' Info: End of reference (cite) `cite.GLAUSTON:2014', line 52.
 
-Package `hyperref' Info: End of reference (cite) `cite.GLAUSTON:2014', line 41.
+Package `hyperref' Info: End of reference (cite) `cite.GLAUSTON:2014', line 52.
 
-Package `hyperref' Info: End of reference (cite) `cite.GLAUSTON:2015', line 41.
+Package `hyperref' Info: End of reference (cite) `cite.GLAUSTON:2015', line 52.
 
-Package `hyperref' Info: End of reference (cite) `cite.GLAUSTON:2015', line 41.
+Package `hyperref' Info: End of reference (cite) `cite.GLAUSTON:2015', line 52.
 
-Package `hyperref' Info: End of reference (cite) `cite.RAGHAVARAO:1998', line 4
-1.
-Package `hyperref' Info: End of reference (cite) `cite.RAGHAVARAO:1998', line 4
-1.
-Package `hyperref' Info: End of reference (cite) `cite.RAY:2006', line 41.
-Package `hyperref' Info: End of reference (cite) `cite.RAY:2006', line 41.
-Package `hyperref' Info: End of reference (cite) `cite.RAGHUNATH:2016', line 41
+Package `hyperref' Info: End of reference (cite) `cite.RAGHAVARAO:1998', line 5
+2.
+Package `hyperref' Info: End of reference (cite) `cite.RAGHAVARAO:1998', line 5
+2.
+Package `hyperref' Info: End of reference (cite) `cite.RAY:2006', line 52.
+Package `hyperref' Info: End of reference (cite) `cite.RAY:2006', line 52.
+Package `hyperref' Info: End of reference (cite) `cite.RAGHUNATH:2016', line 52
 .
-Package `hyperref' Info: End of reference (cite) `cite.RAGHUNATH:2016', line 41
+Package `hyperref' Info: End of reference (cite) `cite.RAGHUNATH:2016', line 52
 .
 ]
 \openout2 = `./docs/doc_body/chapter_2.aux'.
 
  (./docs/doc_body/chapter_2.tex
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1.
-Package hyperref Info: Anchor `page.6' on input line 1.
- [6
-
-
-
-
-]
 Package hyperref Info: Anchor `chapter.2' on input line 1.
 
 Cap\'{\i }tulo 2.
@@ -1869,6 +1977,10 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 10.
 Package hyperref Info: Anchor `page.7' on input line 10.
  [7
+
+
+
+
 Package `hyperref' Info: End of reference (cite) `cite.RISNBETH:1969', line 3.
 Package `hyperref' Info: End of reference (cite) `cite.RISNBETH:1969', line 3.
 Package `hyperref' Info: End of reference (cite) `cite.NEGRETI:2012', line 3.
@@ -1965,72 +2077,62 @@ Package hyperref Info: bookmark on input line 1:
 (hyperref)             reference {chapter.3}
 (hyperref)             toclevel {0}
 (hyperref)             type {toc}.
-Package hyperref Info: Anchor `section.3.1' on input line 3.
+
+Package xcolor Warning: Incompatible color definition on input line 3.
+
+Package hyperref Info: Anchor `section.3.1' on input line 9.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 3.
-Package hyperref Info: bookmark on input line 3:
+(babel)             in language  on input line 9.
+Package hyperref Info: bookmark on input line 9:
 (hyperref)             thecounter {3.1}
-(hyperref)             text {\ifnum 1>\c@secnumdepth \else \protect \numberline
- {\csname thesection\endcsname }\fi }
-(hyperref)             reference {section.3.1}
-(hyperref)             toclevel {1}
-(hyperref)             type {toc}.
-
-Package xcolor Warning: Incompatible color definition on input line 5.
-
-Package hyperref Info: Anchor `section.3.2' on input line 11.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 11.
-Package hyperref Info: bookmark on input line 11:
-(hyperref)             thecounter {3.2}
 (hyperref)             text {\ifnum 1>\c@secnumdepth \else \protect \numberline
  {\csname thesection\endcsname }\fi Seleção inicial dos dados de S4 e estaç�
 �es}
-(hyperref)             reference {section.3.2}
+(hyperref)             reference {section.3.1}
 (hyperref)             toclevel {1}
 (hyperref)             type {toc}.
-Package hyperref Info: Anchor `section.3.3' on input line 15.
+Package hyperref Info: Anchor `section.3.2' on input line 13.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 15.
-Package hyperref Info: bookmark on input line 15:
-(hyperref)             thecounter {3.3}
+(babel)             in language  on input line 13.
+Package hyperref Info: bookmark on input line 13:
+(hyperref)             thecounter {3.2}
 (hyperref)             text {\ifnum 1>\c@secnumdepth \else \protect \numberline
  {\csname thesection\endcsname }\fi Gerando a série espaço-temporal para os d
 ados de VTEC}
-(hyperref)             reference {section.3.3}
+(hyperref)             reference {section.3.2}
 (hyperref)             toclevel {1}
 (hyperref)             type {toc}.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 18.
+(babel)             in language  on input line 16.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 18.
-Package hyperref Info: Anchor `page.11' on input line 18.
+(babel)             in language  on input line 16.
+Package hyperref Info: Anchor `page.11' on input line 16.
  [11
 
 
 
 
-Package `hyperref' Info: End of reference <VerboseLinkInfo>.
+Package `hyperref' Info: End of reference (link) `Item.7', line 39.
 ]
-Package hyperref Info: Anchor `section.3.4' on input line 19.
+Package hyperref Info: Anchor `section.3.3' on input line 17.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 19.
-Package hyperref Info: bookmark on input line 19:
-(hyperref)             thecounter {3.4}
+(babel)             in language  on input line 17.
+Package hyperref Info: bookmark on input line 17:
+(hyperref)             thecounter {3.3}
 (hyperref)             text {\ifnum 1>\c@secnumdepth \else \protect \numberline
  {\csname thesection\endcsname }\fi Gerando um mapa das estações com os merid
 ianos magnéticos}
-(hyperref)             reference {section.3.4}
+(hyperref)             reference {section.3.3}
 (hyperref)             toclevel {1}
 (hyperref)             type {toc}.
 Package svg Info: Last page of `./svg-inkscape/map_stations_svg-tex.pdf' is 1 o
-n input line 25.
+n input line 27.
 
 (./svg-inkscape/map_stations_svg-tex.pdf_tex
-<./svg-inkscape/map_stations_svg-tex.pdf, id=318, page=1, 1879.02pt x 1879.02pt
+<./svg-inkscape/map_stations_svg-tex.pdf, id=364, page=1, 1879.02pt x 1879.02pt
 >
 File: ./svg-inkscape/map_stations_svg-tex.pdf Graphic file (type pdf)
 <use ./svg-inkscape/map_stations_svg-tex.pdf, page 1>
@@ -2038,46 +2140,60 @@ Package pdftex.def Info: ./svg-inkscape/map_stations_svg-tex.pdf , page1 used o
 n input line 56.
 (pdftex.def)             Requested size: 682.86876pt x 682.86911pt.
 )
-Package hyperref Info: bookmark on input line 27:
+Package hyperref Info: bookmark on input line 29:
 (hyperref)             thecounter {3.1}
 (hyperref)             text {\protect \numberline {\csname the\@captype \endcsn
-ame }{\ignorespaces A subfigure}}
+ame }{\ignorespaces Representação dos meridianos magnéticos que atravessam a
+s estações que realizam medidas de cintilação ionosférica.}}
 (hyperref)             reference {figure.3.1}
 (hyperref)             toclevel {0}
 (hyperref)             type {lof}.
-Package hyperref Info: Anchor `figure.3.1' on input line 27.
+Package hyperref Info: Anchor `figure.3.1' on input line 29.
+Package hyperref Info: Anchor `figure.3.1' on input line 29.
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Warning: Float too large for page by 48.76758pt on input line 28.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-Package hyperref Info: Anchor `section.3.5' on input line 30.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 30.
-Package hyperref Info: bookmark on input line 30:
-(hyperref)             thecounter {3.5}
+(babel)             in language  on input line 31.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 31.
+Package hyperref Info: Anchor `page.12' on input line 31.
+ [12]
+Overfull \vbox (59.28754pt too high) has occurred while \output is active []
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 31.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 31.
+Package hyperref Info: Anchor `page.13' on input line 31.
+
+[13 <./svg-inkscape/map_stations_svg-tex.pdf>]
+Package hyperref Info: Anchor `section.3.4' on input line 32.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 32.
+Package hyperref Info: bookmark on input line 32:
+(hyperref)             thecounter {3.4}
 (hyperref)             text {\ifnum 1>\c@secnumdepth \else \protect \numberline
- {\csname thesection\endcsname }\fi Suavização da sérire temporal de S4}
-(hyperref)             reference {section.3.5}
+ {\csname thesection\endcsname }\fi Suavização da série temporal de S4}
+(hyperref)             reference {section.3.4}
 (hyperref)             toclevel {1}
 (hyperref)             type {toc}.
-Package hyperref Info: Reference (link) `figure.3.2' on input line 32.
+Package hyperref Info: Reference (link) `figure.3.2' on input line 36.
 
-Package xcolor Warning: Incompatible color definition on input line 32.
 
-Package hyperref Info: Reference (link) `figure.3.3' on input line 32.
+Package xcolor Warning: Incompatible color definition on input line 36.
 
-Package xcolor Warning: Incompatible color definition on input line 32.
+Package hyperref Info: Reference (link) `figure.3.3' on input line 36.
 
-Package hyperref Info: Reference (link) `figure.3.2' on input line 32.
+Package xcolor Warning: Incompatible color definition on input line 36.
 
-Package xcolor Warning: Incompatible color definition on input line 32.
+Package hyperref Info: Reference (link) `figure.3.2' on input line 36.
 
-Package hyperref Info: Reference (link) `figure.3.3' on input line 32.
+Package xcolor Warning: Incompatible color definition on input line 36.
 
-Package xcolor Warning: Incompatible color definition on input line 32.
+Package hyperref Info: Reference (link) `figure.3.3' on input line 36.
+
+Package xcolor Warning: Incompatible color definition on input line 36.
 
 Package epstopdf Info: Source file: <./Figuras/s4_signal_noise_and_smooth_savgo
 l.eps>
@@ -2090,29 +2206,31 @@ l-eps-converted-to.pdf>
 (epstopdf)             Command: <epstopdf --outfile=./Figuras/s4_signal_noise_a
 nd_smooth_savgol-eps-converted-to.pdf ./Figuras/s4_signal_noise_and_smooth_savg
 ol.eps>
-(epstopdf)             \includegraphics on input line 37.
+(epstopdf)             \includegraphics on input line 40.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./Figuras/s4_signal_noise_and_smooth_savgol-eps-
 converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version 
 <1.5> allowed
-<./Figuras/s4_signal_noise_and_smooth_savgol-eps-converted-to.pdf, id=323, 1300
-.86pt x 433.62pt>
+<./Figuras/s4_signal_noise_and_smooth_savgol-eps-converted-to.pdf, id=7473, 130
+0.86pt x 433.62pt>
 File: ./Figuras/s4_signal_noise_and_smooth_savgol-eps-converted-to.pdf Graphic 
 file (type pdf)
 <use ./Figuras/s4_signal_noise_and_smooth_savgol-eps-converted-to.pdf>
 Package pdftex.def Info: ./Figuras/s4_signal_noise_and_smooth_savgol-eps-conver
-ted-to.pdf  used on input line 37.
+ted-to.pdf  used on input line 40.
 (pdftex.def)             Requested size: 597.50528pt x 199.16988pt.
-Package hyperref Info: bookmark on input line 38:
+Package hyperref Info: bookmark on input line 41:
 (hyperref)             thecounter {3.2}
 (hyperref)             text {\protect \numberline {\csname the\@captype \endcsn
-ame }{\ignorespaces A subfigure}}
+ame }{\ignorespaces Suavização de uma amostra da série temporal de S4, por m
+eio do filtro de Savitzky–Golay.}}
 (hyperref)             reference {figure.3.2}
 (hyperref)             toclevel {0}
 (hyperref)             type {lof}.
-Package hyperref Info: Anchor `figure.3.2' on input line 38.
+Package hyperref Info: Anchor `figure.3.2' on input line 41.
+Package hyperref Info: Anchor `figure.3.2' on input line 41.
 Package epstopdf Info: Source file: <./Figuras/s4_signal_noise_and_smooth_gauss
 ian.eps>
 (epstopdf)                    date: 2018-10-31 19:46:12
@@ -2124,72 +2242,74 @@ ian-eps-converted-to.pdf>
 (epstopdf)             Command: <epstopdf --outfile=./Figuras/s4_signal_noise_a
 nd_smooth_gaussian-eps-converted-to.pdf ./Figuras/s4_signal_noise_and_smooth_ga
 ussian.eps>
-(epstopdf)             \includegraphics on input line 40.
+(epstopdf)             \includegraphics on input line 46.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./Figuras/s4_signal_noise_and_smooth_gaussian-ep
 s-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most versio
 n <1.5> allowed
-<./Figuras/s4_signal_noise_and_smooth_gaussian-eps-converted-to.pdf, id=324, 13
-00.86pt x 433.62pt>
+<./Figuras/s4_signal_noise_and_smooth_gaussian-eps-converted-to.pdf, id=7474, 1
+300.86pt x 433.62pt>
 File: ./Figuras/s4_signal_noise_and_smooth_gaussian-eps-converted-to.pdf Graphi
 c file (type pdf)
 <use ./Figuras/s4_signal_noise_and_smooth_gaussian-eps-converted-to.pdf>
 Package pdftex.def Info: ./Figuras/s4_signal_noise_and_smooth_gaussian-eps-conv
-erted-to.pdf  used on input line 40.
+erted-to.pdf  used on input line 46.
 (pdftex.def)             Requested size: 597.50528pt x 199.16988pt.
-Package hyperref Info: bookmark on input line 41:
+Package hyperref Info: bookmark on input line 47:
 (hyperref)             thecounter {3.3}
 (hyperref)             text {\protect \numberline {\csname the\@captype \endcsn
-ame }{\ignorespaces A subfigure}}
+ame }{\ignorespaces Suavização de uma amostra da série temporal de S4, por m
+eio de uma média móvel com peso gaussiano.}}
 (hyperref)             reference {figure.3.3}
 (hyperref)             toclevel {0}
 (hyperref)             type {lof}.
-Package hyperref Info: Anchor `figure.3.3' on input line 41.
+Package hyperref Info: Anchor `figure.3.3' on input line 47.
+Package hyperref Info: Anchor `figure.3.3' on input line 47.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 44.
+(babel)             in language  on input line 50.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 44.
-Package hyperref Info: Anchor `page.12' on input line 44.
- [12
-Package `hyperref' Info: End of reference (link) `figure.3.2', line 32.
-Package `hyperref' Info: End of reference (link) `figure.3.3', line 32.
-Package `hyperref' Info: End of reference (link) `figure.3.2', line 32.
-Package `hyperref' Info: End of reference (link) `figure.3.3', line 32.
+(babel)             in language  on input line 50.
+Package hyperref Info: Anchor `page.14' on input line 50.
+ [14
+Package `hyperref' Info: End of reference (link) `figure.3.2', line 36.
+Package `hyperref' Info: End of reference (link) `figure.3.3', line 36.
+Package `hyperref' Info: End of reference (link) `figure.3.2', line 36.
+Package `hyperref' Info: End of reference (link) `figure.3.3', line 36.
 ]
-Package hyperref Info: Anchor `section.3.6' on input line 49.
+Package hyperref Info: Anchor `section.3.5' on input line 55.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 49.
-Package hyperref Info: bookmark on input line 49:
-(hyperref)             thecounter {3.6}
+(babel)             in language  on input line 55.
+Package hyperref Info: bookmark on input line 55:
+(hyperref)             thecounter {3.5}
 (hyperref)             text {\ifnum 1>\c@secnumdepth \else \protect \numberline
  {\csname thesection\endcsname }\fi Extração da série temporal de VTEC, para
  algumas estações}
-(hyperref)             reference {section.3.6}
+(hyperref)             reference {section.3.5}
 (hyperref)             toclevel {1}
 (hyperref)             type {toc}.
-Package hyperref Info: Reference (link) `figure.3.4' on input line 51.
+Package hyperref Info: Reference (link) `figure.3.4' on input line 57.
 
 
-Package xcolor Warning: Incompatible color definition on input line 51.
+Package xcolor Warning: Incompatible color definition on input line 57.
 
-Package hyperref Info: Reference (link) `figure.3.5' on input line 51.
+Package hyperref Info: Reference (link) `figure.3.5' on input line 57.
 
-Package xcolor Warning: Incompatible color definition on input line 51.
+Package xcolor Warning: Incompatible color definition on input line 57.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 52.
+(babel)             in language  on input line 58.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 52.
-Package hyperref Info: Anchor `page.13' on input line 52.
- [13 <./Figuras/s4_signal_noise_and_smooth_savgol-eps-converted-to.pdf> <./Figu
+(babel)             in language  on input line 58.
+Package hyperref Info: Anchor `page.15' on input line 58.
+ [15 <./Figuras/s4_signal_noise_and_smooth_savgol-eps-converted-to.pdf> <./Figu
 ras/s4_signal_noise_and_smooth_gaussian-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <./Figuras/vtec_sj2.eps>
 (epstopdf)                    date: 2018-11-01 14:03:53
@@ -2199,26 +2319,28 @@ Package epstopdf Info: Source file: <./Figuras/vtec_sj2.eps>
 (epstopdf)                    size: 25385 bytes
 (epstopdf)             Command: <epstopdf --outfile=./Figuras/vtec_sj2-eps-conv
 erted-to.pdf ./Figuras/vtec_sj2.eps>
-(epstopdf)             \includegraphics on input line 55.
+(epstopdf)             \includegraphics on input line 61.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./Figuras/vtec_sj2-eps-converted-to.pdf): PDF in
 clusion: found PDF version <1.7>, but at most version <1.5> allowed
-<./Figuras/vtec_sj2-eps-converted-to.pdf, id=402, 1300.86pt x 433.62pt>
+<./Figuras/vtec_sj2-eps-converted-to.pdf, id=7552, 1300.86pt x 433.62pt>
 File: ./Figuras/vtec_sj2-eps-converted-to.pdf Graphic file (type pdf)
 <use ./Figuras/vtec_sj2-eps-converted-to.pdf>
 Package pdftex.def Info: ./Figuras/vtec_sj2-eps-converted-to.pdf  used on input
- line 55.
+ line 61.
 (pdftex.def)             Requested size: 640.18703pt x 213.40196pt.
-Package hyperref Info: bookmark on input line 56:
+Package hyperref Info: bookmark on input line 62:
 (hyperref)             thecounter {3.4}
 (hyperref)             text {\protect \numberline {\csname the\@captype \endcsn
-ame }{\ignorespaces A subfigure}}
+ame }{\ignorespaces Amostra de um sinal de VTEC, juntamente com suas suavizaç�
+�es pelo método Savitzky–Golay e média móvel com peso gaussiano.}}
 (hyperref)             reference {figure.3.4}
 (hyperref)             toclevel {0}
 (hyperref)             type {lof}.
-Package hyperref Info: Anchor `figure.3.4' on input line 56.
+Package hyperref Info: Anchor `figure.3.4' on input line 62.
+Package hyperref Info: Anchor `figure.3.4' on input line 62.
 Package epstopdf Info: Source file: <./Figuras/vtec_signal.eps>
 (epstopdf)                    date: 2018-11-01 14:03:54
 (epstopdf)                    size: 234785 bytes
@@ -2228,85 +2350,95 @@ Package epstopdf Info: Source file: <./Figuras/vtec_signal.eps>
 (epstopdf)                    size: 71286 bytes
 (epstopdf)             Command: <epstopdf --outfile=./Figuras/vtec_signal-eps-c
 onverted-to.pdf ./Figuras/vtec_signal.eps>
-(epstopdf)             \includegraphics on input line 58.
+(epstopdf)             \includegraphics on input line 65.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./Figuras/vtec_signal-eps-converted-to.pdf): PDF
  inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<./Figuras/vtec_signal-eps-converted-to.pdf, id=403, 1879.02pt x 867.24pt>
+<./Figuras/vtec_signal-eps-converted-to.pdf, id=7553, 1879.02pt x 867.24pt>
 File: ./Figuras/vtec_signal-eps-converted-to.pdf Graphic file (type pdf)
 <use ./Figuras/vtec_signal-eps-converted-to.pdf>
 Package pdftex.def Info: ./Figuras/vtec_signal-eps-converted-to.pdf  used on in
-put line 58.
+put line 65.
 (pdftex.def)             Requested size: 640.18703pt x 295.46642pt.
-Package hyperref Info: bookmark on input line 59:
+Package hyperref Info: bookmark on input line 66:
 (hyperref)             thecounter {3.5}
 (hyperref)             text {\protect \numberline {\csname the\@captype \endcsn
-ame }{\ignorespaces A subfigure}}
+ame }{\ignorespaces Amostra de um sinal de VTEC, para múltiplas estações. No
+te a convergência da série para a vizinhança das 12:00 UT e sua divergência
+ próximo das 00:00 UT.}}
 (hyperref)             reference {figure.3.5}
 (hyperref)             toclevel {0}
 (hyperref)             type {lof}.
-Package hyperref Info: Anchor `figure.3.5' on input line 59.
+Package hyperref Info: Anchor `figure.3.5' on input line 66.
+Package hyperref Info: Anchor `figure.3.5' on input line 66.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 62.
+(babel)             in language  on input line 69.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 62.
-Package hyperref Info: Anchor `page.14' on input line 62.
- [14
-Package `hyperref' Info: End of reference (link) `figure.3.4', line 51.
-Package `hyperref' Info: End of reference (link) `figure.3.5', line 51.
+(babel)             in language  on input line 69.
+Package hyperref Info: Anchor `page.16' on input line 69.
+ [16
+Package `hyperref' Info: End of reference (link) `figure.3.4', line 57.
+Package `hyperref' Info: End of reference (link) `figure.3.5', line 57.
 ]
-Package hyperref Info: Anchor `section.3.7' on input line 65.
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 65.
-Package hyperref Info: bookmark on input line 65:
-(hyperref)             thecounter {3.7}
+(babel)             in language  on input line 72.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 72.
+Package hyperref Info: Anchor `page.17' on input line 72.
+ [17 <./Figuras/vtec_sj2-eps-converted-to.pdf> <./Figuras/vtec_signal-eps-conve
+rted-to.pdf>]
+Package hyperref Info: Anchor `section.3.6' on input line 72.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 72.
+Package hyperref Info: bookmark on input line 72:
+(hyperref)             thecounter {3.6}
 (hyperref)             text {\ifnum 1>\c@secnumdepth \else \protect \numberline
  {\csname thesection\endcsname }\fi Seleção fina dos dados de S4}
-(hyperref)             reference {section.3.7}
+(hyperref)             reference {section.3.6}
 (hyperref)             toclevel {1}
 (hyperref)             type {toc}.
-Package hyperref Info: Reference (link) `section.3.7' on input line 67.
+Package hyperref Info: Reference (link) `table.3.1' on input line 76.
 
 
-Package xcolor Warning: Incompatible color definition on input line 67.
+Package xcolor Warning: Incompatible color definition on input line 76.
 
-Package hyperref Info: Reference (link) `section.3.7' on input line 67.
+Package hyperref Info: Reference (link) `section.3.7' on input line 76.
 
-Package xcolor Warning: Incompatible color definition on input line 67.
+Package xcolor Warning: Incompatible color definition on input line 76.
 
-Package hyperref Info: Reference (link) `figure.3.6' on input line 67.
+Package hyperref Info: Reference (link) `figure.3.10' on input line 76.
 
-Package xcolor Warning: Incompatible color definition on input line 67.
+Package xcolor Warning: Incompatible color definition on input line 76.
 
-Package hyperref Info: Reference (link) `figure.3.7' on input line 67.
+Package hyperref Info: Reference (link) `figure.3.11' on input line 76.
 
-Package xcolor Warning: Incompatible color definition on input line 67.
+Package xcolor Warning: Incompatible color definition on input line 76.
 
-Package hyperref Info: Reference (link) `figure.3.8' on input line 67.
+Package hyperref Info: Reference (link) `figure.3.8' on input line 76.
 
-Package xcolor Warning: Incompatible color definition on input line 67.
+Package xcolor Warning: Incompatible color definition on input line 76.
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 68.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 68.
-Package hyperref Info: Anchor `page.15' on input line 68.
- [15 <./Figuras/vtec_sj2-eps-converted-to.pdf> <./Figuras/vtec_signal-eps-conve
-rted-to.pdf>]
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 73.
+(Font)              <10.95> on input line 82.
+Package hyperref Info: bookmark on input line 140:
+(hyperref)             thecounter {3.1}
+(hyperref)             text {\protect \numberline {\csname the\@captype \endcsn
+ame }{\ignorespaces Conjunto de estações que realizam medidas do índice S4 j
+untamente com seus atributos.}}
+(hyperref)             reference {table.3.1}
+(hyperref)             toclevel {0}
+(hyperref)             type {lot}.
+Package hyperref Info: Anchor `table.3.1' on input line 140.
+Package hyperref Info: Anchor `table.3.1' on input line 140.
 
-Underfull \hbox (badness 10000) in paragraph at lines 73--124
- [][][] 
- []
+LaTeX Warning: Float too large for page by 1.58896pt on input line 142.
 
 Package epstopdf Info: Source file: <./Figuras/s4_stations0.eps>
 (epstopdf)                    date: 2018-11-03 17:01:26
@@ -2317,58 +2449,59 @@ f>
 (epstopdf)                    size: 224775 bytes
 (epstopdf)             Command: <epstopdf --outfile=./Figuras/s4_stations0-eps-
 converted-to.pdf ./Figuras/s4_stations0.eps>
-(epstopdf)             \includegraphics on input line 128.
+(epstopdf)             \includegraphics on input line 146.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./Figuras/s4_stations0-eps-converted-to.pdf): PD
 F inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<./Figuras/s4_stations0-eps-converted-to.pdf, id=518, 1457.445pt x 3365.57375pt
->
+<./Figuras/s4_stations0-eps-converted-to.pdf, id=7668, 1457.445pt x 3365.57375p
+t>
 File: ./Figuras/s4_stations0-eps-converted-to.pdf Graphic file (type pdf)
 <use ./Figuras/s4_stations0-eps-converted-to.pdf>
 Package pdftex.def Info: ./Figuras/s4_stations0-eps-converted-to.pdf  used on i
-nput line 128.
+nput line 146.
 (pdftex.def)             Requested size: 426.79135pt x 985.54335pt.
-Package hyperref Info: bookmark on input line 130:
+Package hyperref Info: bookmark on input line 148:
 (hyperref)             thecounter {3.6}
 (hyperref)             text {\protect \numberline {\csname the\@captype \endcsn
-ame }{\ignorespaces A subfigure}}
+ame }{\ignorespaces Amostra do sinal S4 para o primeiro subconjunto de estaçõ
+es.}}
 (hyperref)             reference {figure.3.6}
 (hyperref)             toclevel {0}
 (hyperref)             type {lof}.
-Package hyperref Info: Anchor `figure.3.6' on input line 130.
+Package hyperref Info: Anchor `figure.3.6' on input line 148.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 132.
+(babel)             in language  on input line 150.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 132.
-Package hyperref Info: Anchor `page.16' on input line 132.
- [16
-Package `hyperref' Info: End of reference (link) `section.3.7', line 67.
-Package `hyperref' Info: End of reference (link) `section.3.7', line 67.
-Package `hyperref' Info: End of reference (link) `figure.3.6', line 67.
-Package `hyperref' Info: End of reference (link) `figure.3.7', line 67.
-Package `hyperref' Info: End of reference (link) `figure.3.8', line 67.
+(babel)             in language  on input line 150.
+Package hyperref Info: Anchor `page.18' on input line 150.
+ [18
+Package `hyperref' Info: End of reference (link) `table.3.1', line 76.
+Package `hyperref' Info: End of reference (link) `section.3.7', line 76.
+Package `hyperref' Info: End of reference (link) `figure.3.10', line 76.
+Package `hyperref' Info: End of reference (link) `figure.3.11', line 76.
+Package `hyperref' Info: End of reference (link) `figure.3.8', line 76.
 ]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 132.
+(babel)             in language  on input line 150.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 132.
-Package hyperref Info: Anchor `page.17' on input line 132.
+(babel)             in language  on input line 150.
+Package hyperref Info: Anchor `page.19' on input line 150.
 
-[17]
+[19]
 Overfull \vbox (351.44217pt too high) has occurred while \output is active []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 132.
+(babel)             in language  on input line 150.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 132.
-Package hyperref Info: Anchor `page.18' on input line 132.
+(babel)             in language  on input line 150.
+Package hyperref Info: Anchor `page.20' on input line 150.
 
-[18 <./Figuras/s4_stations0-eps-converted-to.pdf>]
+[20 <./Figuras/s4_stations0-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <./Figuras/s4_stations1.eps>
 (epstopdf)                    date: 2018-11-02 18:41:01
 (epstopdf)                    size: 728497 bytes
@@ -2378,36 +2511,37 @@ f>
 (epstopdf)                    size: 181412 bytes
 (epstopdf)             Command: <epstopdf --outfile=./Figuras/s4_stations1-eps-
 converted-to.pdf ./Figuras/s4_stations1.eps>
-(epstopdf)             \includegraphics on input line 135.
+(epstopdf)             \includegraphics on input line 153.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./Figuras/s4_stations1-eps-converted-to.pdf): PD
 F inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<./Figuras/s4_stations1-eps-converted-to.pdf, id=534, 1734.48pt x 4336.2pt>
+<./Figuras/s4_stations1-eps-converted-to.pdf, id=7685, 1734.48pt x 4336.2pt>
 File: ./Figuras/s4_stations1-eps-converted-to.pdf Graphic file (type pdf)
 <use ./Figuras/s4_stations1-eps-converted-to.pdf>
 Package pdftex.def Info: ./Figuras/s4_stations1-eps-converted-to.pdf  used on i
-nput line 135.
+nput line 153.
 (pdftex.def)             Requested size: 640.18703pt x 1600.4652pt.
-Package hyperref Info: bookmark on input line 137:
+Package hyperref Info: bookmark on input line 155:
 (hyperref)             thecounter {3.7}
 (hyperref)             text {\protect \numberline {\csname the\@captype \endcsn
-ame }{\ignorespaces A subfigure}}
+ame }{\ignorespaces Amostra do sinal S4 para o segundo subconjunto de estaçõe
+s.}}
 (hyperref)             reference {figure.3.7}
 (hyperref)             toclevel {0}
 (hyperref)             type {lof}.
-Package hyperref Info: Anchor `figure.3.7' on input line 137.
+Package hyperref Info: Anchor `figure.3.7' on input line 155.
 
 Overfull \vbox (966.36401pt too high) has occurred while \output is active []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 139.
+(babel)             in language  on input line 157.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 139.
-Package hyperref Info: Anchor `page.19' on input line 139.
+(babel)             in language  on input line 157.
+Package hyperref Info: Anchor `page.21' on input line 157.
 
-[19 <./Figuras/s4_stations1-eps-converted-to.pdf>]
+[21 <./Figuras/s4_stations1-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <./Figuras/s4_stations2.eps>
 (epstopdf)                    date: 2018-11-02 18:41:05
 (epstopdf)                    size: 813603 bytes
@@ -2417,141 +2551,276 @@ f>
 (epstopdf)                    size: 204662 bytes
 (epstopdf)             Command: <epstopdf --outfile=./Figuras/s4_stations2-eps-
 converted-to.pdf ./Figuras/s4_stations2.eps>
-(epstopdf)             \includegraphics on input line 142.
+(epstopdf)             \includegraphics on input line 160.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./Figuras/s4_stations2-eps-converted-to.pdf): PD
 F inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<./Figuras/s4_stations2-eps-converted-to.pdf, id=580, 1734.48pt x 4336.2pt>
+<./Figuras/s4_stations2-eps-converted-to.pdf, id=7731, 1734.48pt x 4336.2pt>
 File: ./Figuras/s4_stations2-eps-converted-to.pdf Graphic file (type pdf)
 <use ./Figuras/s4_stations2-eps-converted-to.pdf>
 Package pdftex.def Info: ./Figuras/s4_stations2-eps-converted-to.pdf  used on i
-nput line 142.
+nput line 160.
 (pdftex.def)             Requested size: 640.18703pt x 1600.4652pt.
-Package hyperref Info: bookmark on input line 144:
+Package hyperref Info: bookmark on input line 162:
 (hyperref)             thecounter {3.8}
 (hyperref)             text {\protect \numberline {\csname the\@captype \endcsn
-ame }{\ignorespaces A subfigure}}
+ame }{\ignorespaces Amostra do sinal S4 para o terceiro subconjunto de estaçõ
+es.}}
 (hyperref)             reference {figure.3.8}
 (hyperref)             toclevel {0}
 (hyperref)             type {lof}.
-Package hyperref Info: Anchor `figure.3.8' on input line 144.
+Package hyperref Info: Anchor `figure.3.8' on input line 162.
 
 Overfull \vbox (966.36401pt too high) has occurred while \output is active []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 146.
+(babel)             in language  on input line 164.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 146.
-Package hyperref Info: Anchor `page.20' on input line 146.
+(babel)             in language  on input line 164.
+Package hyperref Info: Anchor `page.22' on input line 164.
 
-[20 <./Figuras/s4_stations2-eps-converted-to.pdf>]
+[22 <./Figuras/s4_stations2-eps-converted-to.pdf>]
 Package svg Info: Last page of `./svg-inkscape/map_stations_re_svg-tex.pdf' is 
-1 on input line 149.
+1 on input line 167.
 
 (./svg-inkscape/map_stations_re_svg-tex.pdf_tex
-<./svg-inkscape/map_stations_re_svg-tex.pdf, id=633, page=1, 1879.02pt x 1879.0
-2pt>
+<./svg-inkscape/map_stations_re_svg-tex.pdf, id=7784, page=1, 1879.02pt x 1879.
+02pt>
 File: ./svg-inkscape/map_stations_re_svg-tex.pdf Graphic file (type pdf)
 <use ./svg-inkscape/map_stations_re_svg-tex.pdf, page 1>
 Package pdftex.def Info: ./svg-inkscape/map_stations_re_svg-tex.pdf , page1 use
 d on input line 56.
 (pdftex.def)             Requested size: 682.86876pt x 682.86911pt.
 )
-Package hyperref Info: bookmark on input line 151:
+Package hyperref Info: bookmark on input line 169:
 (hyperref)             thecounter {3.9}
 (hyperref)             text {\protect \numberline {\csname the\@captype \endcsn
-ame }{\ignorespaces A subfigure}}
+ame }{\ignorespaces Conjunto final de estações que serão utilizadas para est
+e trabalho.}}
 (hyperref)             reference {figure.3.9}
 (hyperref)             toclevel {0}
 (hyperref)             type {lof}.
-Package hyperref Info: Anchor `figure.3.9' on input line 151.
+Package hyperref Info: Anchor `figure.3.9' on input line 169.
 
 
-LaTeX Warning: Float too large for page by 48.76758pt on input line 152.
+LaTeX Warning: Float too large for page by 48.76758pt on input line 170.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-Package hyperref Info: Anchor `section.3.8' on input line 154.
+Package hyperref Info: Anchor `section.3.7' on input line 172.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 154.
-Package hyperref Info: bookmark on input line 154:
-(hyperref)             thecounter {3.8}
+(babel)             in language  on input line 172.
+Package hyperref Info: bookmark on input line 172:
+(hyperref)             thecounter {3.7}
 (hyperref)             text {\ifnum 1>\c@secnumdepth \else \protect \numberline
  {\csname thesection\endcsname }\fi Visualizando S4 e VTEC}
-(hyperref)             reference {section.3.8}
+(hyperref)             reference {section.3.7}
 (hyperref)             toclevel {1}
 (hyperref)             type {toc}.
-LaTeX Font Info:    Try loading font information for OMS+lmr on input line 159.
+LaTeX Font Info:    Try loading font information for OMS+lmr on input line 177.
 
 (/usr/share/texmf/tex/latex/lm/omslmr.fd
 File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 159.
-Package hyperref Info: Anchor `section.3.9' on input line 166.
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 177.
+Package epstopdf Info: Source file: <./Figuras/s4_stations0.eps>
+(epstopdf)                    date: 2018-11-03 17:01:26
+(epstopdf)                    size: 2590954 bytes
+(epstopdf)             Output file: <./Figuras/s4_stations0-eps-converted-to.pd
+f>
+(epstopdf)                    date: 2018-11-03 17:01:40
+(epstopdf)                    size: 224775 bytes
+(epstopdf)             Command: <epstopdf --outfile=./Figuras/s4_stations0-eps-
+converted-to.pdf ./Figuras/s4_stations0.eps>
+(epstopdf)             \includegraphics on input line 186.
+Package epstopdf Info: Output file is already uptodate.
+File: ./Figuras/s4_stations0-eps-converted-to.pdf Graphic file (type pdf)
+<use ./Figuras/s4_stations0-eps-converted-to.pdf>
+Package pdftex.def Info: ./Figuras/s4_stations0-eps-converted-to.pdf  used on i
+nput line 186.
+(pdftex.def)             Requested size: 426.79135pt x 985.54335pt.
+Package hyperref Info: bookmark on input line 188:
+(hyperref)             thecounter {3.10}
+(hyperref)             text {\protect \numberline {\csname the\@captype \endcsn
+ame }{\ignorespaces Amostra do sinal S4 para o primeiro subconjunto de estaçõ
+es.}}
+(hyperref)             reference {figure.3.10}
+(hyperref)             toclevel {0}
+(hyperref)             type {lof}.
+Package hyperref Info: Anchor `figure.3.10' on input line 188.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 166.
+(babel)             in language  on input line 190.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 190.
+Package hyperref Info: Anchor `page.23' on input line 190.
+ [23]
+Overfull \vbox (351.44217pt too high) has occurred while \output is active []
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 190.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 190.
+Package hyperref Info: Anchor `page.24' on input line 190.
+
+[24]
+Package epstopdf Info: Source file: <./Figuras/s4_stations1.eps>
+(epstopdf)                    date: 2018-11-02 18:41:01
+(epstopdf)                    size: 728497 bytes
+(epstopdf)             Output file: <./Figuras/s4_stations1-eps-converted-to.pd
+f>
+(epstopdf)                    date: 2018-11-03 10:13:58
+(epstopdf)                    size: 181412 bytes
+(epstopdf)             Command: <epstopdf --outfile=./Figuras/s4_stations1-eps-
+converted-to.pdf ./Figuras/s4_stations1.eps>
+(epstopdf)             \includegraphics on input line 193.
+Package epstopdf Info: Output file is already uptodate.
+File: ./Figuras/s4_stations1-eps-converted-to.pdf Graphic file (type pdf)
+<use ./Figuras/s4_stations1-eps-converted-to.pdf>
+Package pdftex.def Info: ./Figuras/s4_stations1-eps-converted-to.pdf  used on i
+nput line 193.
+(pdftex.def)             Requested size: 640.18703pt x 1600.4652pt.
+Package hyperref Info: bookmark on input line 195:
+(hyperref)             thecounter {3.11}
+(hyperref)             text {\protect \numberline {\csname the\@captype \endcsn
+ame }{\ignorespaces Amostra do sinal S4 para o segundo subconjunto de estaçõe
+s.}}
+(hyperref)             reference {figure.3.11}
+(hyperref)             toclevel {0}
+(hyperref)             type {lof}.
+Package hyperref Info: Anchor `figure.3.11' on input line 195.
+
+Overfull \vbox (966.36401pt too high) has occurred while \output is active []
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 197.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 197.
+Package hyperref Info: Anchor `page.25' on input line 197.
+
+[25]
+Package epstopdf Info: Source file: <./Figuras/s4_stations2.eps>
+(epstopdf)                    date: 2018-11-02 18:41:05
+(epstopdf)                    size: 813603 bytes
+(epstopdf)             Output file: <./Figuras/s4_stations2-eps-converted-to.pd
+f>
+(epstopdf)                    date: 2018-11-03 10:13:59
+(epstopdf)                    size: 204662 bytes
+(epstopdf)             Command: <epstopdf --outfile=./Figuras/s4_stations2-eps-
+converted-to.pdf ./Figuras/s4_stations2.eps>
+(epstopdf)             \includegraphics on input line 200.
+Package epstopdf Info: Output file is already uptodate.
+File: ./Figuras/s4_stations2-eps-converted-to.pdf Graphic file (type pdf)
+<use ./Figuras/s4_stations2-eps-converted-to.pdf>
+Package pdftex.def Info: ./Figuras/s4_stations2-eps-converted-to.pdf  used on i
+nput line 200.
+(pdftex.def)             Requested size: 640.18703pt x 1600.4652pt.
+Package hyperref Info: bookmark on input line 202:
+(hyperref)             thecounter {3.12}
+(hyperref)             text {\protect \numberline {\csname the\@captype \endcsn
+ame }{\ignorespaces Amostra do sinal S4 para o terceiro subconjunto de estaçõ
+es.}}
+(hyperref)             reference {figure.3.12}
+(hyperref)             toclevel {0}
+(hyperref)             type {lof}.
+Package hyperref Info: Anchor `figure.3.12' on input line 202.
+
+Overfull \vbox (966.36401pt too high) has occurred while \output is active []
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 204.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 204.
+Package hyperref Info: Anchor `page.26' on input line 204.
+
+[26]
+Package hyperref Info: Anchor `section.3.8' on input line 205.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 205.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 166.
+(hyperref)                removing `math shift' on input line 205.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\times' on input line 166.
+(hyperref)                removing `\times' on input line 205.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 166.
+(hyperref)                removing `math shift' on input line 205.
 
-Package hyperref Info: bookmark on input line 166:
-(hyperref)             thecounter {3.9}
+Package hyperref Info: bookmark on input line 205:
+(hyperref)             thecounter {3.8}
 (hyperref)             text {\ifnum 1>\c@secnumdepth \else \protect \numberline
  {\csname thesection\endcsname }\fi Análises: S4$\times $VTEC em São José do
 s Campos}
-(hyperref)             reference {section.3.9}
+(hyperref)             reference {section.3.8}
 (hyperref)             toclevel {1}
 (hyperref)             type {toc}.
-Package hyperref Info: Reference (link) `section.3.8' on input line 168.
+Package hyperref Info: Reference (link) `section.3.7' on input line 207.
 
-Package xcolor Warning: Incompatible color definition on input line 168.
+Package xcolor Warning: Incompatible color definition on input line 207.
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 173.
+(babel)             in language  on input line 220.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 173.
-Package hyperref Info: Anchor `page.21' on input line 173.
-[21
-Package `hyperref' Info: End of reference (link) `section.3.8', line 168.
+(babel)             in language  on input line 220.
+Package hyperref Info: Anchor `page.27' on input line 220.
+[27
+Package `hyperref' Info: End of reference (link) `section.3.7', line 207.
 ])
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 85.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 85.
-Package hyperref Info: Anchor `page.22' on input line 85.
- [22]
+Package hyperref Info: Anchor `page.28' on input line 85.
+ [28]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 85.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 85.
-Package hyperref Info: Anchor `page.23' on input line 85.
- [23]
+Package hyperref Info: Anchor `page.29' on input line 85.
+ [29 <./svg-inkscape/map_stations_re_svg-tex.pdf>]
+\openout2 = `./docs/doc_body/chapter_4.aux'.
+
+
+(./docs/doc_body/chapter_4.tex
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 85.
+(babel)             in language  on input line 1.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 85.
-Package hyperref Info: Anchor `page.24' on input line 85.
- [24 <./svg-inkscape/map_stations_svg-tex.pdf>]
+(babel)             in language  on input line 1.
+Package hyperref Info: Anchor `page.30' on input line 1.
+ [30
+
+
+
+
+]
+Package hyperref Info: Anchor `chapter.4' on input line 1.
+
+Cap\'{\i }tulo 4.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 85.
+(babel)             in language  on input line 1.
+Package hyperref Info: bookmark on input line 1:
+(hyperref)             thecounter {4}
+(hyperref)             text {\protect \numberline {\thechapter }RESULTADOS}
+(hyperref)             reference {chapter.4}
+(hyperref)             toclevel {0}
+(hyperref)             type {toc}.
+)
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 85.
-Package hyperref Info: Anchor `page.25' on input line 85.
- [25 <./svg-inkscape/map_stations_re_svg-tex.pdf>] (./publicacao.bbl (./publica
-cao.brf)
+(babel)             in language  on input line 86.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 86.
+Package hyperref Info: Anchor `page.31' on input line 86.
+ [31] (./publicacao.bbl (./publicacao.brf)
 \tf@brf=\write9
 \openout9 = `publicacao.brf'.
 
@@ -2559,23 +2828,23 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 3.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 3.
-Package hyperref Info: Anchor `page.26' on input line 3.
- [26
+Package hyperref Info: Anchor `page.32' on input line 3.
+ [32
 
 
 
 ]
-Package hyperref Info: Anchor `chapter.4' on input line 3.
+Package hyperref Info: Anchor `chapter.5' on input line 3.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 3.
 Package hyperref Info: bookmark on input line 3:
-(hyperref)             thecounter {4}
+(hyperref)             thecounter {5}
 (hyperref)             text {\refname }
-(hyperref)             reference {chapter.4}
+(hyperref)             reference {chapter.5}
 (hyperref)             toclevel {0}
 (hyperref)             type {toc}.
 Package hyperref Info: Anchor `cite.HAN:2011' on input line 13.
-Package hyperref Info: Reference (link) `page.3' on input line 13.
+Package hyperref Info: Reference (link) `page.4' on input line 13.
 
 
 Package xcolor Warning: Incompatible color definition on input line 13.
@@ -2594,12 +2863,12 @@ Package hyperref Info: Reference (link) `page.2' on input line 28.
 Package xcolor Warning: Incompatible color definition on input line 28.
 
 Package hyperref Info: Anchor `cite.GLAUSTON:2014' on input line 38.
-Package hyperref Info: Reference (link) `page.5' on input line 38.
+Package hyperref Info: Reference (link) `page.6' on input line 38.
 
 Package xcolor Warning: Incompatible color definition on input line 38.
 
 Package hyperref Info: Anchor `cite.GLAUSTON:2015' on input line 47.
-Package hyperref Info: Reference (link) `page.5' on input line 47.
+Package hyperref Info: Reference (link) `page.6' on input line 47.
 
 Package xcolor Warning: Incompatible color definition on input line 47.
 
@@ -2615,7 +2884,7 @@ Package hyperref Info: Anchor `cite.RAGHAVARAO:1998' on input line 70.
 
 Package xcolor Warning: Incompatible color definition on input line 70.
 
-Package hyperref Info: Reference (link) `page.5' on input line 70.
+Package hyperref Info: Reference (link) `page.6' on input line 70.
 
 Package xcolor Warning: Incompatible color definition on input line 70.
 
@@ -2626,7 +2895,7 @@ Package hyperref Info: Anchor `cite.RAGHUNATH:2016' on input line 79.
 l.79 
      
 ? 
-Package hyperref Info: Reference (link) `page.5' on input line 79.
+Package hyperref Info: Reference (link) `page.6' on input line 79.
 
 Package xcolor Warning: Incompatible color definition on input line 79.
 
@@ -2634,7 +2903,7 @@ Package hyperref Info: Anchor `cite.RAY:2006' on input line 88.
 
 Package xcolor Warning: Incompatible color definition on input line 88.
 
-Package hyperref Info: Reference (link) `page.5' on input line 88.
+Package hyperref Info: Reference (link) `page.6' on input line 88.
 
 Package xcolor Warning: Incompatible color definition on input line 88.
 
@@ -2642,26 +2911,26 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 88.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 88.
-Package hyperref Info: Anchor `page.27' on input line 88.
-[27
-Package `hyperref' Info: End of reference (link) `page.3', line 13.
+Package hyperref Info: Anchor `page.33' on input line 88.
+[33
+Package `hyperref' Info: End of reference (link) `page.4', line 13.
 Package `hyperref' Info: End of reference (link) `page.8', line 20.
-Package `hyperref' Info: End of reference (link) `section.3.8', line 168.
+Package `hyperref' Info: End of reference (link) `section.3.7', line 207.
 Package `hyperref' Info: End of reference (link) `page.2', line 28.
-Package `hyperref' Info: End of reference (link) `page.5', line 38.
-Package `hyperref' Info: End of reference (link) `page.5', line 47.
-Package `hyperref' Info: End of reference (link) `section.3.8', line 168.
+Package `hyperref' Info: End of reference (link) `page.6', line 38.
+Package `hyperref' Info: End of reference (link) `page.6', line 47.
+Package `hyperref' Info: End of reference (link) `section.3.7', line 207.
 Package `hyperref' Info: End of reference (link) `page.7', line 59.
-Package `hyperref' Info: End of reference (link) `section.3.8', line 168.
-Package `hyperref' Info: End of reference (link) `page.5', line 70.
-Package `hyperref' Info: End of reference (link) `page.5', line 79.
+Package `hyperref' Info: End of reference (link) `section.3.7', line 207.
+Package `hyperref' Info: End of reference (link) `page.6', line 70.
+Package `hyperref' Info: End of reference (link) `page.6', line 79.
 ]
 Package hyperref Info: Anchor `cite.REZENDE:2009' on input line 99.
 
 
 Package xcolor Warning: Incompatible color definition on input line 99.
 
-Package hyperref Info: Reference (link) `page.5' on input line 99.
+Package hyperref Info: Reference (link) `page.6' on input line 99.
 
 Package xcolor Warning: Incompatible color definition on input line 99.
 
@@ -2674,7 +2943,7 @@ Package hyperref Info: Anchor `cite.STAFFORD:2000' on input line 115.
 
 Package xcolor Warning: Incompatible color definition on input line 115.
 
-Package hyperref Info: Reference (link) `page.2' on input line 115.
+Package hyperref Info: Reference (link) `page.3' on input line 115.
 
 Package xcolor Warning: Incompatible color definition on input line 115.
 
@@ -2697,19 +2966,19 @@ Package xcolor Warning: Incompatible color definition on input line 131.
 
 )
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 100.
+(babel)             in language  on input line 101.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 100.
-Package hyperref Info: Anchor `page.28' on input line 100.
- [28
-Package `hyperref' Info: End of reference (link) `section.3.8', line 168.
-Package `hyperref' Info: End of reference (link) `page.5', line 88.
-Package `hyperref' Info: End of reference (link) `section.3.8', line 168.
-Package `hyperref' Info: End of reference (link) `page.5', line 99.
+(babel)             in language  on input line 101.
+Package hyperref Info: Anchor `page.34' on input line 101.
+ [34
+Package `hyperref' Info: End of reference (link) `section.3.7', line 207.
+Package `hyperref' Info: End of reference (link) `page.6', line 88.
+Package `hyperref' Info: End of reference (link) `section.3.7', line 207.
+Package `hyperref' Info: End of reference (link) `page.6', line 99.
 Package `hyperref' Info: End of reference (link) `page.7', line 105.
-Package `hyperref' Info: End of reference (link) `section.3.8', line 168.
-Package `hyperref' Info: End of reference (link) `page.2', line 115.
-Package `hyperref' Info: End of reference (link) `section.3.8', line 168.
+Package `hyperref' Info: End of reference (link) `section.3.7', line 207.
+Package `hyperref' Info: End of reference (link) `page.3', line 115.
+Package `hyperref' Info: End of reference (link) `section.3.7', line 207.
 Package `hyperref' Info: End of reference (link) `page.2', line 125.
 Package `hyperref' Info: End of reference (link) `page.9', line 125.
 Package `hyperref' Info: End of reference (link) `page.5', line 131.
@@ -2718,32 +2987,33 @@ No file publicacao.ind.
 
 AED: lastpage setting LastPage
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 109.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 109.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 109.
-(./publicacao.aux (./docs/doc_aux/abreviaturasesiglas.aux)
-(./docs/doc_body/introduction.aux) (./docs/doc_body/chapter_2.aux)
-(./docs/doc_body/chapter_3.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 109.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 109.
+(babel)             in language  on input line 110.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 110.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 110.
+(./publicacao.aux (./docs/doc_aux/resumo.aux) (./docs/doc_aux/abstract.aux)
+(./docs/doc_aux/abreviaturasesiglas.aux) (./docs/doc_body/introduction.aux)
+(./docs/doc_body/chapter_2.aux) (./docs/doc_body/chapter_3.aux)
+(./docs/doc_body/chapter_4.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 110.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 110.
 Package rerunfilecheck Info: File `publicacao.out' has not changed.
-(rerunfilecheck)             Checksum: A7CC9A81A563D8B2A0437676CCA176B9;1673.
+(rerunfilecheck)             Checksum: BA0EB73EE101E23E5B7EA5270A6AA665;1761.
 Package rerunfilecheck Info: File `publicacao.brf' has not changed.
-(rerunfilecheck)             Checksum: 7D947829574DC23B61C129C4E5AA7F9E;834.
+(rerunfilecheck)             Checksum: 712AA1562526C405A66A35BB6925E33D;862.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 109.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 110.
  ) 
 Here is how much of TeX's memory you used:
- 13064 strings out of 494830
- 195971 string characters out of 6178378
- 339593 words of memory out of 5000000
- 15877 multiletter control sequences out of 15000+600000
+ 13124 strings out of 494830
+ 197188 string characters out of 6178378
+ 342740 words of memory out of 5000000
+ 15898 multiletter control sequences out of 15000+600000
  51966 words of font info for 48 fonts, out of 8000000 for 9000
  61 hyphenation exceptions out of 8191
- 44i,10n,75p,1291b,592s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 44i,10n,75p,2068b,592s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/en
 c/dvips/lm/lm-mathit.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/s
 hare/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texmf/fonts/type1/public/lm
@@ -2753,10 +3023,10 @@ f/fonts/type1/public/lm/lmmi8.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10
 type1/public/lm/lmr8.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></u
 sr/share/texmf/fonts/type1/public/lm/lmsy8.pfb></usr/share/texmf/fonts/type1/pu
 blic/lm/lmtt12.pfb>
-Output written on publicacao.pdf (40 pages, 4955357 bytes).
+Output written on publicacao.pdf (50 pages, 5039419 bytes).
 PDF statistics:
- 14912 PDF objects out of 15390 (max. 8388607)
- 9832 compressed objects within 99 object streams
- 96 named destinations out of 1000 (max. 500000)
- 270 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 14988 PDF objects out of 15390 (max. 8388607)
+ 9896 compressed objects within 99 object streams
+ 115 named destinations out of 1000 (max. 500000)
+ 291 words of extra memory for PDF output out of 10000 (max. 10000000)
 

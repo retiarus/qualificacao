@@ -1,14 +1,23 @@
 \babel@toc {portuguese}{}
+\babel@toc {english}{}
+\babel@toc {portuguese}{}
+\babel@toc {english}{}
+\babel@toc {portuguese}{}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Passos de um processo de KDD. Fonte: Rezende, F. L. C. (2009)}}{5}{figure.1.1}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Representa\IeC {\c c}\IeC {\~a}o dos meridianos magn\IeC {\'e}ticos que atravessam as esta\IeC {\c c}\IeC {\~o}es que realizam medidas de cintila\IeC {\c c}\IeC {\~a}o ionosf\IeC {\'e}rica.}}{13}{figure.3.1}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Suaviza\IeC {\c c}\IeC {\~a}o de uma amostra da s\IeC {\'e}rie temporal de S4, por meio do filtro de Savitzky\IeC {\textendash }Golay.}}{15}{figure.3.2}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Suaviza\IeC {\c c}\IeC {\~a}o de uma amostra da s\IeC {\'e}rie temporal de S4, por meio de uma m\IeC {\'e}dia m\IeC {\'o}vel com peso gaussiano.}}{15}{figure.3.3}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Amostra de um sinal de VTEC, juntamente com suas suaviza\IeC {\c c}\IeC {\~o}es pelo m\IeC {\'e}todo Savitzky\IeC {\textendash }Golay e m\IeC {\'e}dia m\IeC {\'o}vel com peso gaussiano.}}{17}{figure.3.4}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Amostra de um sinal de VTEC, para m\IeC {\'u}ltiplas esta\IeC {\c c}\IeC {\~o}es. Note a converg\IeC {\^e}ncia da s\IeC {\'e}rie para a vizinhan\IeC {\c c}a das 12:00 UT e sua diverg\IeC {\^e}ncia pr\IeC {\'o}ximo das 00:00 UT.}}{17}{figure.3.5}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Amostra do sinal S4 para o primeiro subconjunto de esta\IeC {\c c}\IeC {\~o}es.}}{20}{figure.3.6}
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Amostra do sinal S4 para o segundo subconjunto de esta\IeC {\c c}\IeC {\~o}es.}}{21}{figure.3.7}
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Amostra do sinal S4 para o terceiro subconjunto de esta\IeC {\c c}\IeC {\~o}es.}}{22}{figure.3.8}
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Amostra do sinal S4 para o primeiro subconjunto de esta\IeC {\c c}\IeC {\~o}es.}}{24}{figure.3.10}
+\contentsline {figure}{\numberline {3.11}{\ignorespaces Amostra do sinal S4 para o segundo subconjunto de esta\IeC {\c c}\IeC {\~o}es.}}{25}{figure.3.11}
+\contentsline {figure}{\numberline {3.12}{\ignorespaces Amostra do sinal S4 para o terceiro subconjunto de esta\IeC {\c c}\IeC {\~o}es.}}{26}{figure.3.12}
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Conjunto final de esta\IeC {\c c}\IeC {\~o}es que ser\IeC {\~a}o utilizadas para este trabalho.}}{29}{figure.3.9}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {3.2}{\ignorespaces A subfigure}}{13}{figure.3.2}
-\contentsline {figure}{\numberline {3.3}{\ignorespaces A subfigure}}{13}{figure.3.3}
-\contentsline {figure}{\numberline {3.4}{\ignorespaces A subfigure}}{15}{figure.3.4}
-\contentsline {figure}{\numberline {3.5}{\ignorespaces A subfigure}}{15}{figure.3.5}
-\contentsline {figure}{\numberline {3.6}{\ignorespaces A subfigure}}{18}{figure.3.6}
-\contentsline {figure}{\numberline {3.7}{\ignorespaces A subfigure}}{19}{figure.3.7}
-\contentsline {figure}{\numberline {3.8}{\ignorespaces A subfigure}}{20}{figure.3.8}
-\contentsline {figure}{\numberline {3.1}{\ignorespaces A subfigure}}{24}{figure.3.1}
-\contentsline {figure}{\numberline {3.9}{\ignorespaces A subfigure}}{25}{figure.3.9}
 \contentsfinish 
